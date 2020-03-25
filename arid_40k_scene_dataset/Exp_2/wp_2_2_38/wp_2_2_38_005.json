@@ -1,0 +1,42 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 39.99956521488616,
+      "id": "marker_0",
+      "type": "rect",
+      "width": 54.35277209337079,
+      "x": 211,
+      "y": 302
+    },
+    {
+      "class": "obj",
+      "height": 101.91254310723627,
+      "id": "binder_0",
+      "type": "rect",
+      "width": 137.5738803638789,
+      "x": 53,
+      "y": 240
+    },
+    {
+      "class": "obj",
+      "height": 35.5555555555556,
+      "id": "pliers_2",
+      "type": "rect",
+      "width": 44.91228070175438,
+      "x": 67,
+      "y": 238
+    },
+    {
+      "class": "obj",
+      "height": 247.01754385964912,
+      "id": "cereal_box_0",
+      "type": "rect",
+      "width": 79.06432748538012,
+      "x": 0.4678362573099415,
+      "y": 200.7017543859649
+    }
+  ],
+  "class": "image",
+  "filename": "wp_2_2_38_005.png"
+}

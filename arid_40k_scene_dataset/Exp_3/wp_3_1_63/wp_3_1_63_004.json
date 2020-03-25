@@ -1,0 +1,114 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 71.91131584311887,
+      "id": "keyboard_2",
+      "type": "rect",
+      "width": 175.85275635062695,
+      "x": 185,
+      "y": 301
+    },
+    {
+      "class": "obj",
+      "height": 65.17668181777117,
+      "id": "comb_1",
+      "type": "rect",
+      "width": 106.54410444521295,
+      "x": 360,
+      "y": 375
+    },
+    {
+      "class": "obj",
+      "height": 101.65900783013711,
+      "id": "cap_0",
+      "type": "rect",
+      "width": 182.902606778346,
+      "x": 208,
+      "y": 377
+    },
+    {
+      "class": "obj",
+      "height": 54.48155223268867,
+      "id": "calculator_1",
+      "type": "rect",
+      "width": 99.26189413179743,
+      "x": 86,
+      "y": 345
+    },
+    {
+      "class": "obj",
+      "height": 17.57844621886545,
+      "id": "toothbrush_0",
+      "type": "rect",
+      "width": 78.87882839157544,
+      "x": 209,
+      "y": 287
+    },
+    {
+      "class": "obj",
+      "height": 71.67579127310253,
+      "id": "toothpaste_0",
+      "type": "rect",
+      "width": 22.214284840873717,
+      "x": 311,
+      "y": 218
+    },
+    {
+      "class": "obj",
+      "height": 50.58824651794242,
+      "id": "flashlight_1",
+      "type": "rect",
+      "width": 40.35521113993076,
+      "x": 356,
+      "y": 294
+    },
+    {
+      "class": "obj",
+      "height": 44.475153478989455,
+      "id": "camera_1",
+      "type": "rect",
+      "width": 48.46077930788047,
+      "x": 305,
+      "y": 336
+    },
+    {
+      "class": "obj",
+      "height": 76.97067728422712,
+      "id": "notebook_1",
+      "type": "rect",
+      "width": 127.79892994898593,
+      "x": 68,
+      "y": 265
+    },
+    {
+      "class": "obj",
+      "height": 47.75517979354066,
+      "id": "marker_1",
+      "type": "rect",
+      "width": 74.97256866052567,
+      "x": 181,
+      "y": 369
+    },
+    {
+      "class": "obj",
+      "height": 93.03668809409271,
+      "id": "hand_towel_0",
+      "type": "rect",
+      "width": 191.1617726366143,
+      "x": 0.3333333333333357,
+      "y": 387
+    },
+    {
+      "class": "obj",
+      "height": 20.11695906432749,
+      "id": "rubber_eraser_1",
+      "type": "rect",
+      "width": 27.602339181286546,
+      "x": 10.292397660818713,
+      "y": 385.96491228070175
+    }
+  ],
+  "class": "image",
+  "filename": "wp_3_1_63_004.png"
+}

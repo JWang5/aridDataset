@@ -1,0 +1,123 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 90.76023391812862,
+      "id": "keyboard_2",
+      "type": "rect",
+      "width": 180.58479532163744,
+      "x": 288,
+      "y": 311
+    },
+    {
+      "class": "obj",
+      "height": 65.39329446925711,
+      "id": "marker_1",
+      "type": "rect",
+      "width": 62.96309950691361,
+      "x": 290,
+      "y": 396
+    },
+    {
+      "class": "obj",
+      "height": 51.75251030776661,
+      "id": "toothbrush_0",
+      "type": "rect",
+      "width": 31.869230988407537,
+      "x": 482,
+      "y": 316
+    },
+    {
+      "class": "obj",
+      "height": 46.633518075258905,
+      "id": "calculator_1",
+      "type": "rect",
+      "width": 97.14706598639162,
+      "x": 168,
+      "y": 362
+    },
+    {
+      "class": "obj",
+      "height": 17.648870428170426,
+      "id": "rubber_eraser_1",
+      "type": "rect",
+      "width": 28.238192685072676,
+      "x": 163,
+      "y": 338
+    },
+    {
+      "class": "obj",
+      "height": 79.92166820645434,
+      "id": "cap_0",
+      "type": "rect",
+      "width": 180.53561095551237,
+      "x": 352,
+      "y": 400
+    },
+    {
+      "class": "obj",
+      "height": 33.33250383642326,
+      "id": "toothpaste_0",
+      "type": "rect",
+      "width": 72.74024304259473,
+      "x": 334,
+      "y": 294
+    },
+    {
+      "class": "obj",
+      "height": 98.61985209937967,
+      "id": "notebook_2",
+      "type": "rect",
+      "width": 169.43801151770407,
+      "x": 25,
+      "y": 291
+    },
+    {
+      "class": "obj",
+      "height": 76.13579550323328,
+      "id": "notebook_1",
+      "type": "rect",
+      "width": 114.20393949128027,
+      "x": 192,
+      "y": 270
+    },
+    {
+      "class": "obj",
+      "height": 73.60612908957802,
+      "id": "hand_towel_0",
+      "type": "rect",
+      "width": 202.99153125952716,
+      "x": 89,
+      "y": 401
+    },
+    {
+      "class": "obj",
+      "height": 59.13844996592417,
+      "id": "flashlight_0",
+      "type": "rect",
+      "width": 64.69702288304387,
+      "x": 98,
+      "y": 356
+    },
+    {
+      "class": "obj",
+      "height": 32.13387115346512,
+      "id": "flashlight_1",
+      "type": "rect",
+      "width": 47.22281934726618,
+      "x": 428,
+      "y": 280
+    },
+    {
+      "class": "obj",
+      "height": 45.4552558721611,
+      "id": "camera_1",
+      "type": "rect",
+      "width": 58.78302453002755,
+      "x": 480,
+      "y": 370
+    }
+  ],
+  "class": "image",
+  "filename": "wp_3_1_51_004.png"
+}

@@ -1,0 +1,69 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 54.76167174257489,
+      "id": "scissors_0",
+      "type": "rect",
+      "width": 55.32046431137667,
+      "x": 291,
+      "y": 308
+    },
+    {
+      "class": "obj",
+      "height": 131.87504623722117,
+      "id": "keyboard_1",
+      "type": "rect",
+      "width": 288.33696550172084,
+      "x": 178,
+      "y": 347
+    },
+    {
+      "class": "obj",
+      "height": 80.466129907457,
+      "id": "plate_1",
+      "type": "rect",
+      "width": 121.25798742998727,
+      "x": 89,
+      "y": 355
+    },
+    {
+      "class": "obj",
+      "height": 40.8195989975772,
+      "id": "apple_2",
+      "type": "rect",
+      "width": 32.893463269892294,
+      "x": 195,
+      "y": 292
+    },
+    {
+      "class": "obj",
+      "height": 109.48235294117654,
+      "id": "food_box_1",
+      "type": "rect",
+      "width": 112.13647058823535,
+      "x": 56,
+      "y": 211
+    },
+    {
+      "class": "obj",
+      "height": 35.16705882352943,
+      "id": "cell_phone_0",
+      "type": "rect",
+      "width": 82.94117647058827,
+      "x": 34,
+      "y": 335
+    },
+    {
+      "class": "obj",
+      "height": 16.5451754287472,
+      "id": "marker_2",
+      "type": "rect",
+      "width": 65.18400440000403,
+      "x": 228,
+      "y": 273
+    }
+  ],
+  "class": "image",
+  "filename": "wp_2_1_4_002.png"
+}

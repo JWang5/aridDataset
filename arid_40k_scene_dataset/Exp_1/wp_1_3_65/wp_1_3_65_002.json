@@ -1,0 +1,141 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 147.8421061263209,
+      "id": "binder_0",
+      "type": "rect",
+      "width": 197.59125590647065,
+      "x": 256,
+      "y": 275
+    },
+    {
+      "class": "obj",
+      "height": 32.88503121060745,
+      "id": "potato_0",
+      "type": "rect",
+      "width": 62.39723870730654,
+      "x": 199,
+      "y": 380
+    },
+    {
+      "class": "obj",
+      "height": 42.62335602212522,
+      "id": "apple_2",
+      "type": "rect",
+      "width": 35.241657493153866,
+      "x": 167,
+      "y": 296
+    },
+    {
+      "class": "obj",
+      "height": 28.10686428257054,
+      "id": "pliers_2",
+      "type": "rect",
+      "width": 78.98028863402317,
+      "x": 105,
+      "y": 287
+    },
+    {
+      "class": "obj",
+      "height": 41.7057741731216,
+      "id": "stapler_2",
+      "type": "rect",
+      "width": 46.08841484894117,
+      "x": 297,
+      "y": 257
+    },
+    {
+      "class": "obj",
+      "height": 63.86964334241725,
+      "id": "shampoo_1",
+      "type": "rect",
+      "width": 21.7577905891751,
+      "x": 288,
+      "y": 178
+    },
+    {
+      "class": "obj",
+      "height": 26.139383782790617,
+      "id": "rubber_eraser_0",
+      "type": "rect",
+      "width": 32.885031210607536,
+      "x": 84,
+      "y": 405
+    },
+    {
+      "class": "obj",
+      "height": 24.31658697551498,
+      "id": "tomato_1",
+      "type": "rect",
+      "width": 26.154468549245763,
+      "x": 184,
+      "y": 230
+    },
+    {
+      "class": "obj",
+      "height": 46.51254136595597,
+      "id": "coffee_mug_0",
+      "type": "rect",
+      "width": 35.62662742924287,
+      "x": 125,
+      "y": 221
+    },
+    {
+      "class": "obj",
+      "height": 165.64705882352965,
+      "id": "food_box_1",
+      "type": "rect",
+      "width": 83.76470588235306,
+      "x": 19,
+      "y": 242
+    },
+    {
+      "class": "obj",
+      "height": 35.90937844058607,
+      "id": "keyboard_1",
+      "type": "rect",
+      "width": 141.23413016592716,
+      "x": 105,
+      "y": 184
+    },
+    {
+      "class": "obj",
+      "height": 21.63045236775463,
+      "id": "cell_phone_0",
+      "type": "rect",
+      "width": 29.830231696707358,
+      "x": 262,
+      "y": 200
+    },
+    {
+      "class": "obj",
+      "height": 30.819860236408516,
+      "id": "coffee_mug_1",
+      "type": "rect",
+      "width": 35.48525192357127,
+      "x": 247,
+      "y": 166
+    },
+    {
+      "class": "obj",
+      "height": 15.431057155443341,
+      "id": "garlic_0",
+      "type": "rect",
+      "width": 19.839930628427197,
+      "x": 158,
+      "y": 158
+    },
+    {
+      "class": "obj",
+      "height": 100.00176098782002,
+      "id": "cereal_box_0",
+      "type": "rect",
+      "width": 69.79991121626125,
+      "x": 58,
+      "y": 95
+    }
+  ],
+  "class": "image",
+  "filename": "wp_1_3_65_002.png"
+}

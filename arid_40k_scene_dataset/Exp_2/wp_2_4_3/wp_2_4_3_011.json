@@ -1,0 +1,60 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 33.009879410813824,
+      "id": "garlic_0",
+      "type": "rect",
+      "width": 37.047948511502256,
+      "x": 445,
+      "y": 294
+    },
+    {
+      "class": "obj",
+      "height": 42.26684194702915,
+      "id": "sponge_1",
+      "type": "rect",
+      "width": 55.96523321003579,
+      "x": 382,
+      "y": 312
+    },
+    {
+      "class": "obj",
+      "height": 35.73758714288664,
+      "id": "potato_0",
+      "type": "rect",
+      "width": 62.91654298702096,
+      "x": 332,
+      "y": 355
+    },
+    {
+      "class": "obj",
+      "height": 32.48413338223045,
+      "id": "food_can_0",
+      "type": "rect",
+      "width": 45.32030516129695,
+      "x": 299,
+      "y": 189
+    },
+    {
+      "class": "obj",
+      "height": 68.56926389075593,
+      "id": "food_jar_2",
+      "type": "rect",
+      "width": 58.49261112461933,
+      "x": 219,
+      "y": 155
+    },
+    {
+      "class": "obj",
+      "height": 149.90925410658735,
+      "id": "greens_0",
+      "type": "rect",
+      "width": 149.5504798643709,
+      "x": 159,
+      "y": 326
+    }
+  ],
+  "class": "image",
+  "filename": "wp_2_4_3_011.png"
+}

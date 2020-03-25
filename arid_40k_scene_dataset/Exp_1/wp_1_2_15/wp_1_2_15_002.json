@@ -1,0 +1,33 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 47.34049950144538,
+      "id": "tomato_1",
+      "type": "rect",
+      "width": 50.362233512175926,
+      "x": 77,
+      "y": 379
+    },
+    {
+      "class": "obj",
+      "height": 34.62018298877007,
+      "id": "potato_0",
+      "type": "rect",
+      "width": 33.691348811022586,
+      "x": 51,
+      "y": 308
+    },
+    {
+      "class": "obj",
+      "height": 154.67880288957699,
+      "id": "binder_0",
+      "type": "rect",
+      "width": 104.58088751289996,
+      "x": 0.41520467836257424,
+      "y": 162
+    }
+  ],
+  "class": "image",
+  "filename": "wp_1_2_15_002.png"
+}

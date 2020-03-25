@@ -1,0 +1,78 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 60.70588235294122,
+      "id": "flashlight_1",
+      "type": "rect",
+      "width": 18.823529411764696,
+      "x": 218,
+      "y": 318
+    },
+    {
+      "class": "obj",
+      "height": 70.64327485380113,
+      "id": "bowl_0",
+      "type": "rect",
+      "width": 87.48538011695905,
+      "x": 109,
+      "y": 268
+    },
+    {
+      "class": "obj",
+      "height": 20.584795321637444,
+      "id": "toothbrush_0",
+      "type": "rect",
+      "width": 114.61988304093568,
+      "x": 96,
+      "y": 391
+    },
+    {
+      "class": "obj",
+      "height": 59.415204678362585,
+      "id": "hand_towel_0",
+      "type": "rect",
+      "width": 131.9298245614035,
+      "x": 53,
+      "y": 235
+    },
+    {
+      "class": "obj",
+      "height": 110.40935672514621,
+      "id": "notebook_1",
+      "type": "rect",
+      "width": 94.03508771929825,
+      "x": 26,
+      "y": 310
+    },
+    {
+      "class": "obj",
+      "height": 24.795321637426923,
+      "id": "rubber_eraser_1",
+      "type": "rect",
+      "width": 36.95906432748538,
+      "x": 25,
+      "y": 426
+    },
+    {
+      "class": "obj",
+      "height": 60.818713450292364,
+      "id": "kleenex_0",
+      "type": "rect",
+      "width": 95.90643274853801,
+      "x": 1.4035087719298236,
+      "y": 203.9766081871345
+    },
+    {
+      "class": "obj",
+      "height": 67.83625730994152,
+      "id": "cereal_box_0",
+      "type": "rect",
+      "width": 52.39766081871345,
+      "x": 1.871345029239766,
+      "y": 145.96491228070175
+    }
+  ],
+  "class": "image",
+  "filename": "wp_3_2_45_005.png"
+}

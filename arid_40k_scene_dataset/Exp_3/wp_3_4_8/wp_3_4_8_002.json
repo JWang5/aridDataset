@@ -1,0 +1,78 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 105.45812807881774,
+      "id": "food_bag_2",
+      "type": "rect",
+      "width": 53.911330049261096,
+      "x": 498,
+      "y": 211
+    },
+    {
+      "class": "obj",
+      "height": 74.7192118226601,
+      "id": "food_jar_0",
+      "type": "rect",
+      "width": 42.088669950738904,
+      "x": 470,
+      "y": 261
+    },
+    {
+      "class": "obj",
+      "height": 56.27586206896552,
+      "id": "coffee_mug_2",
+      "type": "rect",
+      "width": 52.9655172413793,
+      "x": 421,
+      "y": 309
+    },
+    {
+      "class": "obj",
+      "height": 43.98029556650249,
+      "id": "peach_0",
+      "type": "rect",
+      "width": 46.81773399014776,
+      "x": 350,
+      "y": 407
+    },
+    {
+      "class": "obj",
+      "height": 78.02955665024632,
+      "id": "apple_0",
+      "type": "rect",
+      "width": 68.57142857142856,
+      "x": 195,
+      "y": 178
+    },
+    {
+      "class": "obj",
+      "height": 168.82758620689654,
+      "id": "pitcher_2",
+      "type": "rect",
+      "width": 91.27093596059115,
+      "x": 301,
+      "y": 230
+    },
+    {
+      "class": "obj",
+      "height": 83.23152709359607,
+      "id": "pear_0",
+      "type": "rect",
+      "width": 72.82758620689656,
+      "x": 90,
+      "y": 198
+    },
+    {
+      "class": "obj",
+      "height": 65.73399014778326,
+      "id": "bell_pepper_1",
+      "type": "rect",
+      "width": 56.74876847290636,
+      "x": 353,
+      "y": 150
+    }
+  ],
+  "class": "image",
+  "filename": "wp_3_4_8_002.png"
+}

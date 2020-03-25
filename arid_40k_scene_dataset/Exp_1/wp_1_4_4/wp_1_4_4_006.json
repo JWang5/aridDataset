@@ -1,0 +1,51 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 33.6320920301722,
+      "id": "lime_1",
+      "type": "rect",
+      "width": 33.14853888366963,
+      "x": 442,
+      "y": 286
+    },
+    {
+      "class": "obj",
+      "height": 50.771079428386884,
+      "id": "orange_1",
+      "type": "rect",
+      "width": 50.32436373339782,
+      "x": 202,
+      "y": 167
+    },
+    {
+      "class": "obj",
+      "height": 68.88694806132844,
+      "id": "food_jar_2",
+      "type": "rect",
+      "width": 57.76433966091368,
+      "x": 241,
+      "y": 145
+    },
+    {
+      "class": "obj",
+      "height": 33.495937648497744,
+      "id": "food_can_0",
+      "type": "rect",
+      "width": 49.297275066655544,
+      "x": 266,
+      "y": 195
+    },
+    {
+      "class": "obj",
+      "height": 152.13790577175723,
+      "id": "greens_0",
+      "type": "rect",
+      "width": 260.2377670952711,
+      "x": 130,
+      "y": 326
+    }
+  ],
+  "class": "image",
+  "filename": "wp_1_4_4_006.png"
+}

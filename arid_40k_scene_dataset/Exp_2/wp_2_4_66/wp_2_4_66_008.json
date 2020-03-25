@@ -1,0 +1,51 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 118.29308767448885,
+      "id": "greens_0",
+      "type": "rect",
+      "width": 119.81883140686844,
+      "x": 363,
+      "y": 254
+    },
+    {
+      "class": "obj",
+      "height": 73.77424836092209,
+      "id": "coffee_mug_0",
+      "type": "rect",
+      "width": 69.42674839603792,
+      "x": 239,
+      "y": 152
+    },
+    {
+      "class": "obj",
+      "height": 83.52503182095722,
+      "id": "sponge_1",
+      "type": "rect",
+      "width": 72.7006949107367,
+      "x": 159,
+      "y": 371
+    },
+    {
+      "class": "obj",
+      "height": 46.93508568424238,
+      "id": "lime_1",
+      "type": "rect",
+      "width": 43.23876475422961,
+      "x": 263,
+      "y": 425
+    },
+    {
+      "class": "obj",
+      "height": 72.90731652333534,
+      "id": "coffee_mug_1",
+      "type": "rect",
+      "width": 62.148969605580376,
+      "x": 156,
+      "y": 155
+    }
+  ],
+  "class": "image",
+  "filename": "wp_2_4_66_008.png"
+}

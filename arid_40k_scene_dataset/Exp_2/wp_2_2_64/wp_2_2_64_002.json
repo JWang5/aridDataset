@@ -1,0 +1,24 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 48.68349239510337,
+      "id": "stapler_2",
+      "type": "rect",
+      "width": 77.05421727362916,
+      "x": 119,
+      "y": 307
+    },
+    {
+      "class": "obj",
+      "height": 112.9549363605091,
+      "id": "cereal_box_0",
+      "type": "rect",
+      "width": 102.95975232198144,
+      "x": 1.3508771929824555,
+      "y": 231
+    }
+  ],
+  "class": "image",
+  "filename": "wp_2_2_64_002.png"
+}

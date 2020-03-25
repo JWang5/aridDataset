@@ -1,0 +1,87 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 133.17171717171718,
+      "id": "cereal_box_0",
+      "type": "rect",
+      "width": 107.95959595959596,
+      "x": 63,
+      "y": 186
+    },
+    {
+      "class": "obj",
+      "height": 73.05050505050502,
+      "id": "keyboard_2",
+      "type": "rect",
+      "width": 177.13131313131314,
+      "x": 76,
+      "y": 289
+    },
+    {
+      "class": "obj",
+      "height": 151.91919191919192,
+      "id": "greens_1",
+      "type": "rect",
+      "width": 279.9191919191919,
+      "x": 65,
+      "y": 323
+    },
+    {
+      "class": "obj",
+      "height": 43.95959595959596,
+      "id": "camera_0",
+      "type": "rect",
+      "width": 48.4848484848485,
+      "x": 382,
+      "y": 363
+    },
+    {
+      "class": "obj",
+      "height": 64.64646464646466,
+      "id": "notebook_0",
+      "type": "rect",
+      "width": 148.6868686868687,
+      "x": 302,
+      "y": 278
+    },
+    {
+      "class": "obj",
+      "height": 43.95959595959596,
+      "id": "flashlight_1",
+      "type": "rect",
+      "width": 18.74747474747474,
+      "x": 262,
+      "y": 272
+    },
+    {
+      "class": "obj",
+      "height": 38.78787878787881,
+      "id": "flashlight_0",
+      "type": "rect",
+      "width": 74.98989898989902,
+      "x": 312,
+      "y": 442
+    },
+    {
+      "class": "obj",
+      "height": 29.84856767138234,
+      "id": "rubber_eraser_1",
+      "type": "rect",
+      "width": 16.430404222779202,
+      "x": 459,
+      "y": 444
+    },
+    {
+      "class": "obj",
+      "height": 89.04557136784803,
+      "id": "toothpaste_0",
+      "type": "rect",
+      "width": 39.149346032415934,
+      "x": 27,
+      "y": 244
+    }
+  ],
+  "class": "image",
+  "filename": "wp_3_1_5_002.png"
+}

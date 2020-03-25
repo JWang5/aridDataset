@@ -1,0 +1,78 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 122.46191425081406,
+      "id": "binder_0",
+      "type": "rect",
+      "width": 179.14444978927912,
+      "x": 295,
+      "y": 286
+    },
+    {
+      "class": "obj",
+      "height": 27.49576555098463,
+      "id": "rubber_eraser_0",
+      "type": "rect",
+      "width": 32.50254006211574,
+      "x": 234,
+      "y": 388
+    },
+    {
+      "class": "obj",
+      "height": 43.09170677240337,
+      "id": "ball_1",
+      "type": "rect",
+      "width": 42.807145548992914,
+      "x": 191,
+      "y": 308
+    },
+    {
+      "class": "obj",
+      "height": 165.13446725515237,
+      "id": "cereal_box_0",
+      "type": "rect",
+      "width": 112.26758938731462,
+      "x": 138,
+      "y": 151
+    },
+    {
+      "class": "obj",
+      "height": 64.62093410168904,
+      "id": "cell_phone_0",
+      "type": "rect",
+      "width": 102.50060727990632,
+      "x": 87,
+      "y": 404
+    },
+    {
+      "class": "obj",
+      "height": 30.432015088602384,
+      "id": "stapler_2",
+      "type": "rect",
+      "width": 32.88438898478529,
+      "x": 385,
+      "y": 265
+    },
+    {
+      "class": "obj",
+      "height": 53.333333333333314,
+      "id": "keyboard_1",
+      "type": "rect",
+      "width": 149.70760233918128,
+      "x": 0.2690058479532169,
+      "y": 320
+    },
+    {
+      "class": "obj",
+      "height": 47.25146198830407,
+      "id": "pliers_0",
+      "type": "rect",
+      "width": 50.058479532163744,
+      "x": 4.678362573099415,
+      "y": 384.093567251462
+    }
+  ],
+  "class": "image",
+  "filename": "wp_2_1_44_008.png"
+}

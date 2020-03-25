@@ -1,0 +1,141 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 96.94156294624503,
+      "id": "kleenex_0",
+      "type": "rect",
+      "width": 121.41181301533939,
+      "x": 371,
+      "y": 299
+    },
+    {
+      "class": "obj",
+      "height": 141.33526488108197,
+      "id": "greens_1",
+      "type": "rect",
+      "width": 227.00757460103983,
+      "x": 413,
+      "y": 248
+    },
+    {
+      "class": "obj",
+      "height": 104.70503693744206,
+      "id": "cereal_box_0",
+      "type": "rect",
+      "width": 121.17567348219325,
+      "x": 247,
+      "y": 287
+    },
+    {
+      "class": "obj",
+      "height": 38.763138231860864,
+      "id": "scissors_2",
+      "type": "rect",
+      "width": 80.99770752409543,
+      "x": 307,
+      "y": 259
+    },
+    {
+      "class": "obj",
+      "height": 50.03420521223546,
+      "id": "bowl_0",
+      "type": "rect",
+      "width": 63.98796762202221,
+      "x": 397,
+      "y": 231
+    },
+    {
+      "class": "obj",
+      "height": 41.877225909711456,
+      "id": "notebook_0",
+      "type": "rect",
+      "width": 123.29856626978682,
+      "x": 454,
+      "y": 232
+    },
+    {
+      "class": "obj",
+      "height": 37.78309493456024,
+      "id": "hand_towel_0",
+      "type": "rect",
+      "width": 94.87393629523513,
+      "x": 461,
+      "y": 194
+    },
+    {
+      "class": "obj",
+      "height": 36.332294468099235,
+      "id": "cap_0",
+      "type": "rect",
+      "width": 60.32207562366233,
+      "x": 461,
+      "y": 161
+    },
+    {
+      "class": "obj",
+      "height": 30.344500656800363,
+      "id": "keyboard_2",
+      "type": "rect",
+      "width": 67.89039646930553,
+      "x": 377,
+      "y": 170
+    },
+    {
+      "class": "obj",
+      "height": 20.603922307443526,
+      "id": "calculator_1",
+      "type": "rect",
+      "width": 34.35834525423331,
+      "x": 416,
+      "y": 200
+    },
+    {
+      "class": "obj",
+      "height": 43.89644300167052,
+      "id": "notebook_2",
+      "type": "rect",
+      "width": 80.12980708922575,
+      "x": 332,
+      "y": 218
+    },
+    {
+      "class": "obj",
+      "height": 25.99849060225972,
+      "id": "notebook_1",
+      "type": "rect",
+      "width": 61.09080165735932,
+      "x": 335,
+      "y": 194
+    },
+    {
+      "class": "obj",
+      "height": 17.437498600906764,
+      "id": "flashlight_0",
+      "type": "rect",
+      "width": 40.02698542480863,
+      "x": 416,
+      "y": 216
+    },
+    {
+      "class": "obj",
+      "height": 14.6865304745059,
+      "id": "flashlight_1",
+      "type": "rect",
+      "width": 27.871029423210047,
+      "x": 338,
+      "y": 163
+    },
+    {
+      "class": "obj",
+      "height": 21.195333752980076,
+      "id": "toothpaste_0",
+      "type": "rect",
+      "width": 38.05146532031068,
+      "x": 345,
+      "y": 174
+    }
+  ],
+  "class": "image",
+  "filename": "wp_3_3_53_006.png"
+}

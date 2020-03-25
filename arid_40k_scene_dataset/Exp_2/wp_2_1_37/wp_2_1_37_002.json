@@ -1,0 +1,51 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 54.894124634658226,
+      "id": "orange_0",
+      "type": "rect",
+      "width": 48.552565110076785,
+      "x": 350,
+      "y": 409
+    },
+    {
+      "class": "obj",
+      "height": 209.56872491390297,
+      "id": "cereal_box_0",
+      "type": "rect",
+      "width": 131.05030931282735,
+      "x": 225,
+      "y": 196
+    },
+    {
+      "class": "obj",
+      "height": 121.16959064327489,
+      "id": "binder_0",
+      "type": "rect",
+      "width": 203.5087719298246,
+      "x": 34,
+      "y": 263
+    },
+    {
+      "class": "obj",
+      "height": 109.49359213636933,
+      "id": "shampoo_1",
+      "type": "rect",
+      "width": 53.08780224793665,
+      "x": 90,
+      "y": 311
+    },
+    {
+      "class": "obj",
+      "height": 30.934010418715673,
+      "id": "pliers_0",
+      "type": "rect",
+      "width": 81.28199433364273,
+      "x": 188.93567251461988,
+      "y": 447
+    }
+  ],
+  "class": "image",
+  "filename": "wp_2_1_37_002.png"
+}

@@ -1,0 +1,42 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 123.93661266221454,
+      "id": "bell_pepper_1",
+      "type": "rect",
+      "width": 101.57554411969146,
+      "x": 444,
+      "y": 158
+    },
+    {
+      "class": "obj",
+      "height": 43.90508866100595,
+      "id": "mushroom_1",
+      "type": "rect",
+      "width": 51.18137708959986,
+      "x": 407,
+      "y": 242
+    },
+    {
+      "class": "obj",
+      "height": 151.30923602618822,
+      "id": "soda_can_2",
+      "type": "rect",
+      "width": 64.97668503275654,
+      "x": 333,
+      "y": 139
+    },
+    {
+      "class": "obj",
+      "height": 244.5474911504627,
+      "id": "food_bag_2",
+      "type": "rect",
+      "width": 211.95133865948617,
+      "x": 2.4327485380116958,
+      "y": -0.4678362573099406
+    }
+  ],
+  "class": "image",
+  "filename": "wp_3_4_47_016.png"
+}

@@ -1,0 +1,132 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 126.11764705882354,
+      "id": "notebook_0",
+      "type": "rect",
+      "width": 185.88235294117646,
+      "x": 111,
+      "y": 330
+    },
+    {
+      "class": "obj",
+      "height": 122.35294117647055,
+      "id": "keyboard_2",
+      "type": "rect",
+      "width": 92.23529411764704,
+      "x": 303,
+      "y": 310
+    },
+    {
+      "class": "obj",
+      "height": 94.10663914688678,
+      "id": "notebook_1",
+      "type": "rect",
+      "width": 172.67010663914687,
+      "x": 385,
+      "y": 287
+    },
+    {
+      "class": "obj",
+      "height": 79.05882352941177,
+      "id": "greens_1",
+      "type": "rect",
+      "width": 136.00000000000003,
+      "x": 284,
+      "y": 205
+    },
+    {
+      "class": "obj",
+      "height": 31.058823529411768,
+      "id": "marker_1",
+      "type": "rect",
+      "width": 53.176470588235304,
+      "x": 287,
+      "y": 284
+    },
+    {
+      "class": "obj",
+      "height": 141.17647058823533,
+      "id": "cereal_box_0",
+      "type": "rect",
+      "width": 50.823529411764696,
+      "x": 200,
+      "y": 184
+    },
+    {
+      "class": "obj",
+      "height": 60.148689564700874,
+      "id": "kleenex_0",
+      "type": "rect",
+      "width": 63.80258192143506,
+      "x": 243,
+      "y": 214
+    },
+    {
+      "class": "obj",
+      "height": 71.95357256338053,
+      "id": "toothpaste_0",
+      "type": "rect",
+      "width": 23.328697354533546,
+      "x": 284,
+      "y": 216
+    },
+    {
+      "class": "obj",
+      "height": 30.771324675939496,
+      "id": "notebook_2",
+      "type": "rect",
+      "width": 77.87512167987762,
+      "x": 287,
+      "y": 177
+    },
+    {
+      "class": "obj",
+      "height": 35.08568934681588,
+      "id": "cap_0",
+      "type": "rect",
+      "width": 69.66775635851002,
+      "x": 363,
+      "y": 167
+    },
+    {
+      "class": "obj",
+      "height": 24.38035724324436,
+      "id": "camera_0",
+      "type": "rect",
+      "width": 45.92028451640198,
+      "x": 364,
+      "y": 274
+    },
+    {
+      "class": "obj",
+      "height": 28.4042997008672,
+      "id": "comb_1",
+      "type": "rect",
+      "width": 49.470821979010395,
+      "x": 412,
+      "y": 241
+    },
+    {
+      "class": "obj",
+      "height": 18.936199800578123,
+      "id": "camera_1",
+      "type": "rect",
+      "width": 30.29791968092502,
+      "x": 393,
+      "y": 217
+    },
+    {
+      "class": "obj",
+      "height": 32.19153966098284,
+      "id": "bowl_0",
+      "type": "rect",
+      "width": 47.103797003938155,
+      "x": 240,
+      "y": 165
+    }
+  ],
+  "class": "image",
+  "filename": "wp_3_3_46_003.png"
+}

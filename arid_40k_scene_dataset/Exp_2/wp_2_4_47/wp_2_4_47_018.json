@@ -1,0 +1,87 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 120.14514533488439,
+      "id": "greens_0",
+      "type": "rect",
+      "width": 152.6691636461902,
+      "x": 478.27485380116957,
+      "y": 128
+    },
+    {
+      "class": "obj",
+      "height": 37.802635597992435,
+      "id": "lime_1",
+      "type": "rect",
+      "width": 40.34039963505063,
+      "x": 600,
+      "y": 358
+    },
+    {
+      "class": "obj",
+      "height": 43.02873714523696,
+      "id": "lime_2",
+      "type": "rect",
+      "width": 39.981075485570415,
+      "x": 506,
+      "y": 404
+    },
+    {
+      "class": "obj",
+      "height": 43.00200730531367,
+      "id": "garlic_0",
+      "type": "rect",
+      "width": 47.81950855044017,
+      "x": 416,
+      "y": 362
+    },
+    {
+      "class": "obj",
+      "height": 66.4332259685325,
+      "id": "coffee_mug_0",
+      "type": "rect",
+      "width": 51.76401305085986,
+      "x": 426,
+      "y": 141
+    },
+    {
+      "class": "obj",
+      "height": 57.57478689071945,
+      "id": "potato_0",
+      "type": "rect",
+      "width": 62.523546457273525,
+      "x": 402,
+      "y": 417
+    },
+    {
+      "class": "obj",
+      "height": 44.178148960030995,
+      "id": "food_can_0",
+      "type": "rect",
+      "width": 64.10467981044702,
+      "x": 276,
+      "y": 207
+    },
+    {
+      "class": "obj",
+      "height": 103.13285873472586,
+      "id": "coffee_mug_1",
+      "type": "rect",
+      "width": 94.27712310055475,
+      "x": 155,
+      "y": 164
+    },
+    {
+      "class": "obj",
+      "height": 51.006919925124635,
+      "id": "tomato_1",
+      "type": "rect",
+      "width": 53.06667624512241,
+      "x": 126,
+      "y": 412
+    }
+  ],
+  "class": "image",
+  "filename": "wp_2_4_47_018.png"
+}

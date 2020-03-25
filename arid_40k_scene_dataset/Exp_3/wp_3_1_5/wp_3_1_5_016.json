@@ -1,0 +1,159 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 114.51437243066209,
+      "id": "cereal_box_0",
+      "type": "rect",
+      "width": 93.13750677130469,
+      "x": 428,
+      "y": 188
+    },
+    {
+      "class": "obj",
+      "height": 59.15484229697944,
+      "id": "keyboard_2",
+      "type": "rect",
+      "width": 173.3840609153854,
+      "x": 414,
+      "y": 296
+    },
+    {
+      "class": "obj",
+      "height": 121.81193600693354,
+      "id": "greens_1",
+      "type": "rect",
+      "width": 260.61180136410877,
+      "x": 379.23114593535746,
+      "y": 358.4701273261509
+    },
+    {
+      "class": "obj",
+      "height": 47.442635201977964,
+      "id": "flashlight_1",
+      "type": "rect",
+      "width": 16.79374300159506,
+      "x": 611,
+      "y": 306
+    },
+    {
+      "class": "obj",
+      "height": 76.25205420001657,
+      "id": "toothpaste_0",
+      "type": "rect",
+      "width": 17.570900108472685,
+      "x": 394,
+      "y": 224
+    },
+    {
+      "class": "obj",
+      "height": 100.19834019396086,
+      "id": "notebook_2",
+      "type": "rect",
+      "width": 157.88292569297687,
+      "x": 286,
+      "y": 299
+    },
+    {
+      "class": "obj",
+      "height": 73.55500516892991,
+      "id": "kleenex_0",
+      "type": "rect",
+      "width": 102.41657649983611,
+      "x": 278,
+      "y": 232
+    },
+    {
+      "class": "obj",
+      "height": 90.9682342450647,
+      "id": "comb_1",
+      "type": "rect",
+      "width": 47.966881943974535,
+      "x": 299,
+      "y": 381
+    },
+    {
+      "class": "obj",
+      "height": 32.227800693118354,
+      "id": "marker_1",
+      "type": "rect",
+      "width": 47.08984382737684,
+      "x": 252,
+      "y": 303
+    },
+    {
+      "class": "obj",
+      "height": 46.630904294951534,
+      "id": "bowl_0",
+      "type": "rect",
+      "width": 61.38253374674312,
+      "x": 241,
+      "y": 221
+    },
+    {
+      "class": "obj",
+      "height": 69.28379963179202,
+      "id": "calculator_1",
+      "type": "rect",
+      "width": 99.76229095448552,
+      "x": 176,
+      "y": 352
+    },
+    {
+      "class": "obj",
+      "height": 27.59984457882649,
+      "id": "camera_1",
+      "type": "rect",
+      "width": 43.79824057453878,
+      "x": 206,
+      "y": 271
+    },
+    {
+      "class": "obj",
+      "height": 62.74211335051558,
+      "id": "scissors_2",
+      "type": "rect",
+      "width": 40.46720784904806,
+      "x": 200,
+      "y": 314
+    },
+    {
+      "class": "obj",
+      "height": 53.762124345503764,
+      "id": "cap_0",
+      "type": "rect",
+      "width": 79.95644456320666,
+      "x": 165,
+      "y": 204
+    },
+    {
+      "class": "obj",
+      "height": 25.92595716278089,
+      "id": "toothbrush_0",
+      "type": "rect",
+      "width": 65.32986346257272,
+      "x": 175,
+      "y": 251
+    },
+    {
+      "class": "obj",
+      "height": 87.57397200416074,
+      "id": "notebook_1",
+      "type": "rect",
+      "width": 161.28848461340215,
+      "x": 36.2311459353575,
+      "y": 291
+    },
+    {
+      "class": "obj",
+      "height": 65.97151453149007,
+      "id": "hand_towel_0",
+      "type": "rect",
+      "width": 103.13912274153346,
+      "x": 62,
+      "y": 239
+    }
+  ],
+  "class": "image",
+  "filename": "wp_3_1_5_016.png"
+}

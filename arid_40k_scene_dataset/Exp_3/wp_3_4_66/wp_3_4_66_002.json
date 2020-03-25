@@ -1,0 +1,69 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 169.41176470588238,
+      "id": "pitcher_2",
+      "type": "rect",
+      "width": 108.23529411764707,
+      "x": 181,
+      "y": 60
+    },
+    {
+      "class": "obj",
+      "height": 35.03196963106956,
+      "id": "peach_0",
+      "type": "rect",
+      "width": 40.71282957124299,
+      "x": 308,
+      "y": 330
+    },
+    {
+      "class": "obj",
+      "height": 53.49476443663326,
+      "id": "pear_0",
+      "type": "rect",
+      "width": 43.31655704382251,
+      "x": 266,
+      "y": 337
+    },
+    {
+      "class": "obj",
+      "height": 73.37777422724031,
+      "id": "food_jar_0",
+      "type": "rect",
+      "width": 33.61175464602621,
+      "x": 356,
+      "y": 261
+    },
+    {
+      "class": "obj",
+      "height": 48.05060699396705,
+      "id": "coffee_mug_2",
+      "type": "rect",
+      "width": 44.026664536344185,
+      "x": 390,
+      "y": 258
+    },
+    {
+      "class": "obj",
+      "height": 114.71496238678333,
+      "id": "food_bag_2",
+      "type": "rect",
+      "width": 116.11788841058356,
+      "x": 140,
+      "y": 346
+    },
+    {
+      "class": "obj",
+      "height": 93.09941520467837,
+      "id": "bell_pepper_1",
+      "type": "rect",
+      "width": 80,
+      "x": -0.4678362573099415,
+      "y": 168.88888888888889
+    }
+  ],
+  "class": "image",
+  "filename": "wp_3_4_66_002.png"
+}

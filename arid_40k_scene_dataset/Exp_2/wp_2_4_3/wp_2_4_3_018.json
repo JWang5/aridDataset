@@ -1,0 +1,69 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 51.54748437350196,
+      "id": "sponge_1",
+      "type": "rect",
+      "width": 66.65650790672598,
+      "x": 553,
+      "y": 337
+    },
+    {
+      "class": "obj",
+      "height": 41.14294990881581,
+      "id": "potato_0",
+      "type": "rect",
+      "width": 68.3496101600256,
+      "x": 496,
+      "y": 377
+    },
+    {
+      "class": "obj",
+      "height": 34.281328468349415,
+      "id": "food_can_0",
+      "type": "rect",
+      "width": 48.97775169696073,
+      "x": 482.8825461790048,
+      "y": 195.7059548171268
+    },
+    {
+      "class": "obj",
+      "height": 69.08716109548547,
+      "id": "food_jar_2",
+      "type": "rect",
+      "width": 58.09538400078192,
+      "x": 401,
+      "y": 155
+    },
+    {
+      "class": "obj",
+      "height": 145.18655130945547,
+      "id": "greens_0",
+      "type": "rect",
+      "width": 142.45867421328444,
+      "x": 324,
+      "y": 321
+    },
+    {
+      "class": "obj",
+      "height": 95.03006246766316,
+      "id": "coffee_mug_1",
+      "type": "rect",
+      "width": 112.41318913637996,
+      "x": 133,
+      "y": 155
+    },
+    {
+      "class": "obj",
+      "height": 50.45045524160628,
+      "id": "lime_2",
+      "type": "rect",
+      "width": 49.6046783625731,
+      "x": 70,
+      "y": 430
+    }
+  ],
+  "class": "image",
+  "filename": "wp_2_4_3_018.png"
+}
