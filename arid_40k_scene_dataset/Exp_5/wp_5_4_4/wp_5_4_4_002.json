@@ -1,0 +1,69 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 69.3538317696175,
+      "id": "banana_1",
+      "type": "rect",
+      "width": 64.14637682445846,
+      "x": 377,
+      "y": 284
+    },
+    {
+      "class": "obj",
+      "height": 80.43387567793076,
+      "id": "toothpaste_2",
+      "type": "rect",
+      "width": 37.38005840634128,
+      "x": 327,
+      "y": 307
+    },
+    {
+      "class": "obj",
+      "height": 56.070087609511916,
+      "id": "tomato_2",
+      "type": "rect",
+      "width": 40.38381309970799,
+      "x": 249,
+      "y": 393
+    },
+    {
+      "class": "obj",
+      "height": 73.14107172973308,
+      "id": "food_cup_0",
+      "type": "rect",
+      "width": 74.3245842172692,
+      "x": 156,
+      "y": 378
+    },
+    {
+      "class": "obj",
+      "height": 41.317090495378636,
+      "id": "peach_2",
+      "type": "rect",
+      "width": 42.722433709507186,
+      "x": 249,
+      "y": 183
+    },
+    {
+      "class": "obj",
+      "height": 110.74104527332781,
+      "id": "shampoo_2",
+      "type": "rect",
+      "width": 45.25205149493854,
+      "x": 196,
+      "y": 113
+    },
+    {
+      "class": "obj",
+      "height": 82.80701754385964,
+      "id": "food_can_1",
+      "type": "rect",
+      "width": 77.19298245614034,
+      "x": 0.935672514619883,
+      "y": 216.14035087719296
+    }
+  ],
+  "class": "image",
+  "filename": "wp_5_4_4_002.png"
+}

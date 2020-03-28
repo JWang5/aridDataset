@@ -1,0 +1,51 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 110.30699897627628,
+      "id": "food_cup_1",
+      "type": "rect",
+      "width": 79.20634301453433,
+      "x": 357,
+      "y": 170
+    },
+    {
+      "class": "obj",
+      "height": 58.203935490261614,
+      "id": "pear_1",
+      "type": "rect",
+      "width": 60.461885672763,
+      "x": 523,
+      "y": 189
+    },
+    {
+      "class": "obj",
+      "height": 167.8061385955034,
+      "id": "greens_2",
+      "type": "rect",
+      "width": 164.87244231843664,
+      "x": 455,
+      "y": 313
+    },
+    {
+      "class": "obj",
+      "height": 60.5092821400942,
+      "id": "tomato_2",
+      "type": "rect",
+      "width": 50.34305942455087,
+      "x": 273,
+      "y": 228
+    },
+    {
+      "class": "obj",
+      "height": 152.98245614035085,
+      "id": "instant_noodles_2",
+      "type": "rect",
+      "width": 189.00584795321635,
+      "x": 0.4678362573099415,
+      "y": 94.03508771929825
+    }
+  ],
+  "class": "image",
+  "filename": "wp_6_4_54_012.png"
+}

@@ -1,0 +1,105 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 113.08327270640686,
+      "id": "pitcher_0",
+      "type": "rect",
+      "width": 95.95023883504757,
+      "x": 393,
+      "y": 189
+    },
+    {
+      "class": "obj",
+      "height": 39.72163300159889,
+      "id": "shampoo_0",
+      "type": "rect",
+      "width": 90.76768369330614,
+      "x": 393,
+      "y": 318
+    },
+    {
+      "class": "obj",
+      "height": 59.3581997769096,
+      "id": "mushroom_0",
+      "type": "rect",
+      "width": 40.00843559292338,
+      "x": 466,
+      "y": 357
+    },
+    {
+      "class": "obj",
+      "height": 35.42485326029782,
+      "id": "dry_battery_0",
+      "type": "rect",
+      "width": 16.051805457692637,
+      "x": 454,
+      "y": 435
+    },
+    {
+      "class": "obj",
+      "height": 29.65602502817444,
+      "id": "dry_battery_2",
+      "type": "rect",
+      "width": 12.177452382405477,
+      "x": 347,
+      "y": 447
+    },
+    {
+      "class": "obj",
+      "height": 66.61326834969213,
+      "id": "cell_phone_2",
+      "type": "rect",
+      "width": 82.63418099075733,
+      "x": 323,
+      "y": 374
+    },
+    {
+      "class": "obj",
+      "height": 55.671134401632514,
+      "id": "bell_pepper_2",
+      "type": "rect",
+      "width": 47.51474981203236,
+      "x": 266,
+      "y": 302
+    },
+    {
+      "class": "obj",
+      "height": 69.09883604118568,
+      "id": "cap_1",
+      "type": "rect",
+      "width": 110.31250470173036,
+      "x": 225,
+      "y": 251
+    },
+    {
+      "class": "obj",
+      "height": 82.08703455255409,
+      "id": "food_box_0",
+      "type": "rect",
+      "width": 95.503093810268,
+      "x": 111,
+      "y": 278
+    },
+    {
+      "class": "obj",
+      "height": 97.81002111228304,
+      "id": "instant_noodles_2",
+      "type": "rect",
+      "width": 132.2883633909508,
+      "x": 60,
+      "y": 345
+    },
+    {
+      "class": "obj",
+      "height": 44.03405806564291,
+      "id": "toothbrush_2",
+      "type": "rect",
+      "width": 102.49546389945908,
+      "x": 199,
+      "y": 391
+    }
+  ],
+  "class": "image",
+  "filename": "wp_5_1_87_005.png"
+}

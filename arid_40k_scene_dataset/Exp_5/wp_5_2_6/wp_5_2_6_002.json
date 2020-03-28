@@ -1,0 +1,69 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 56.374839159997066,
+      "id": "food_cup_1",
+      "type": "rect",
+      "width": 40.199779822951484,
+      "x": 159,
+      "y": 265
+    },
+    {
+      "class": "obj",
+      "height": 68.42050099570275,
+      "id": "kleenex_1",
+      "type": "rect",
+      "width": 87.53799392097267,
+      "x": 65,
+      "y": 223
+    },
+    {
+      "class": "obj",
+      "height": 46.955245781364624,
+      "id": "bell_pepper_2",
+      "type": "rect",
+      "width": 48.96761345770885,
+      "x": 36,
+      "y": 275
+    },
+    {
+      "class": "obj",
+      "height": 77.5538711685154,
+      "id": "toothpaste_1",
+      "type": "rect",
+      "width": 35.011748358365956,
+      "x": 47.64152791380999,
+      "y": 290.1194906953967
+    },
+    {
+      "class": "obj",
+      "height": 20.334975369458164,
+      "id": "dry_battery_2",
+      "type": "rect",
+      "width": 20.807881773399018,
+      "x": 114,
+      "y": 374
+    },
+    {
+      "class": "obj",
+      "height": 30.266009852216712,
+      "id": "dry_battery_0",
+      "type": "rect",
+      "width": 27.428571428571438,
+      "x": 51,
+      "y": 413
+    },
+    {
+      "class": "obj",
+      "height": 79.45151811949071,
+      "id": "food_bag_0",
+      "type": "rect",
+      "width": 39.0205680705191,
+      "x": 0,
+      "y": 206.8560235063663
+    }
+  ],
+  "class": "image",
+  "filename": "wp_5_2_6_002.png"
+}

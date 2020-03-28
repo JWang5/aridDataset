@@ -1,0 +1,123 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 41.75485132230767,
+      "id": "cell_phone_1",
+      "type": "rect",
+      "width": 52.50917509176679,
+      "x": 380,
+      "y": 324
+    },
+    {
+      "class": "obj",
+      "height": 157.82170120109097,
+      "id": "pitcher_0",
+      "type": "rect",
+      "width": 151.66849904134648,
+      "x": 454,
+      "y": 252
+    },
+    {
+      "class": "obj",
+      "height": 21.577053345822037,
+      "id": "dry_battery_2",
+      "type": "rect",
+      "width": 30.925850901301658,
+      "x": 520,
+      "y": 439
+    },
+    {
+      "class": "obj",
+      "height": 18.83845802722965,
+      "id": "dry_battery_0",
+      "type": "rect",
+      "width": 26.434569896333514,
+      "x": 291,
+      "y": 326
+    },
+    {
+      "class": "obj",
+      "height": 100.78938941280626,
+      "id": "instant_noodles_2",
+      "type": "rect",
+      "width": 123.83912257266215,
+      "x": 249,
+      "y": 359
+    },
+    {
+      "class": "obj",
+      "height": 81.81566084146601,
+      "id": "toothbrush_2",
+      "type": "rect",
+      "width": 67.81411339808369,
+      "x": 397,
+      "y": 398
+    },
+    {
+      "class": "obj",
+      "height": 102.36314315896581,
+      "id": "greens_2",
+      "type": "rect",
+      "width": 91.89309889685545,
+      "x": 304,
+      "y": 212
+    },
+    {
+      "class": "obj",
+      "height": 70.50703296683173,
+      "id": "cap_1",
+      "type": "rect",
+      "width": 101.09815980037236,
+      "x": 182,
+      "y": 245
+    },
+    {
+      "class": "obj",
+      "height": 47.030909045696035,
+      "id": "cell_phone_2",
+      "type": "rect",
+      "width": 41.653607843667075,
+      "x": 189,
+      "y": 325
+    },
+    {
+      "class": "obj",
+      "height": 41.624426349094335,
+      "id": "glue_stick_0",
+      "type": "rect",
+      "width": 52.55472802490299,
+      "x": 152,
+      "y": 391
+    },
+    {
+      "class": "obj",
+      "height": 45.78955287075604,
+      "id": "pear_1",
+      "type": "rect",
+      "width": 58.30915254041454,
+      "x": 93,
+      "y": 335
+    },
+    {
+      "class": "obj",
+      "height": 58.22396485669606,
+      "id": "food_cup_1",
+      "type": "rect",
+      "width": 44.534609739286445,
+      "x": 69,
+      "y": 277
+    },
+    {
+      "class": "obj",
+      "height": 82.36547270796248,
+      "id": "food_bag_0",
+      "type": "rect",
+      "width": 57.94377662640725,
+      "x": 23.257309941520468,
+      "y": 226.93567251461988
+    }
+  ],
+  "class": "image",
+  "filename": "wp_5_1_49_009.png"
+}

@@ -1,0 +1,186 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 34.18570712978476,
+      "id": "mushroom_0",
+      "type": "rect",
+      "width": 44.54412821704557,
+      "x": 455,
+      "y": 274
+    },
+    {
+      "class": "obj",
+      "height": 48.22103559910738,
+      "id": "bell_pepper_2",
+      "type": "rect",
+      "width": 41.99580140427784,
+      "x": 388,
+      "y": 286
+    },
+    {
+      "class": "obj",
+      "height": 79.9433466843029,
+      "id": "greens_2",
+      "type": "rect",
+      "width": 97.83870782724443,
+      "x": 349,
+      "y": 186
+    },
+    {
+      "class": "obj",
+      "height": 49.6620295391983,
+      "id": "cap_1",
+      "type": "rect",
+      "width": 64.69634818131468,
+      "x": 317,
+      "y": 190
+    },
+    {
+      "class": "obj",
+      "height": 28.35688623415973,
+      "id": "cell_phone_1",
+      "type": "rect",
+      "width": 27.243475067936316,
+      "x": 337,
+      "y": 270
+    },
+    {
+      "class": "obj",
+      "height": 146.4486986037179,
+      "id": "pitcher_0",
+      "type": "rect",
+      "width": 59.382707699957265,
+      "x": 284,
+      "y": 213
+    },
+    {
+      "class": "obj",
+      "height": 41.34160327823113,
+      "id": "shampoo_0",
+      "type": "rect",
+      "width": 15.375563469133954,
+      "x": 309,
+      "y": 123
+    },
+    {
+      "class": "obj",
+      "height": 26.61564444291443,
+      "id": "food_box_0",
+      "type": "rect",
+      "width": 41.79258966805251,
+      "x": 291,
+      "y": 162
+    },
+    {
+      "class": "obj",
+      "height": 55.634311582711376,
+      "id": "food_bag_0",
+      "type": "rect",
+      "width": 24.971078243158516,
+      "x": 269,
+      "y": 144
+    },
+    {
+      "class": "obj",
+      "height": 21.373243683818032,
+      "id": "cell_phone_2",
+      "type": "rect",
+      "width": 43.16803512768299,
+      "x": 246,
+      "y": 225
+    },
+    {
+      "class": "obj",
+      "height": 18.93425416804712,
+      "id": "dry_battery_2",
+      "type": "rect",
+      "width": 18.995378176074958,
+      "x": 241,
+      "y": 338
+    },
+    {
+      "class": "obj",
+      "height": 33.38665723240712,
+      "id": "food_cup_1",
+      "type": "rect",
+      "width": 24.566698808257186,
+      "x": 253,
+      "y": 179
+    },
+    {
+      "class": "obj",
+      "height": 40.91158433833982,
+      "id": "water_bottle_2",
+      "type": "rect",
+      "width": 19.630276351404806,
+      "x": 225,
+      "y": 146
+    },
+    {
+      "class": "obj",
+      "height": 15.899074602947081,
+      "id": "lightbulb_1",
+      "type": "rect",
+      "width": 26.864483688435826,
+      "x": 193,
+      "y": 193
+    },
+    {
+      "class": "obj",
+      "height": 19.990853761208797,
+      "id": "pear_1",
+      "type": "rect",
+      "width": 43.45874393414599,
+      "x": 220,
+      "y": 209
+    },
+    {
+      "class": "obj",
+      "height": 40.43583435305345,
+      "id": "toothbrush_2",
+      "type": "rect",
+      "width": 75.52650869156545,
+      "x": 190,
+      "y": 294
+    },
+    {
+      "class": "obj",
+      "height": 13.966096545226833,
+      "id": "toothpaste_1",
+      "type": "rect",
+      "width": 25.79063711400666,
+      "x": 158,
+      "y": 176
+    },
+    {
+      "class": "obj",
+      "height": 11.849359814658186,
+      "id": "glue_stick_0",
+      "type": "rect",
+      "width": 35.881864227486005,
+      "x": 188,
+      "y": 239
+    },
+    {
+      "class": "obj",
+      "height": 42.6533693020404,
+      "id": "instant_noodles_2",
+      "type": "rect",
+      "width": 81.75493912863192,
+      "x": 185,
+      "y": 246
+    },
+    {
+      "class": "obj",
+      "height": 45.97359462697855,
+      "id": "kleenex_1",
+      "type": "rect",
+      "width": 58.27177420628327,
+      "x": 161,
+      "y": 176
+    }
+  ],
+  "class": "image",
+  "filename": "wp_5_2_50_011.png"
+}

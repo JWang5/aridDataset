@@ -1,0 +1,114 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 46.057571964956196,
+      "id": "cell_phone_1",
+      "type": "rect",
+      "width": 49.06132665832291,
+      "x": 388,
+      "y": 331
+    },
+    {
+      "class": "obj",
+      "height": 66.8235294117647,
+      "id": "instant_noodles_1",
+      "type": "rect",
+      "width": 48.470588235294144,
+      "x": 306,
+      "y": 284
+    },
+    {
+      "class": "obj",
+      "height": 29.326702192434084,
+      "id": "dry_battery_2",
+      "type": "rect",
+      "width": 13.870737523448554,
+      "x": 333,
+      "y": 417
+    },
+    {
+      "class": "obj",
+      "height": 52.323555815456814,
+      "id": "glue_stick_0",
+      "type": "rect",
+      "width": 20.07341059515079,
+      "x": 448.3971248327594,
+      "y": 411.44115006689617
+    },
+    {
+      "class": "obj",
+      "height": 93.5284015866817,
+      "id": "water_bottle_2",
+      "type": "rect",
+      "width": 43.19743971588264,
+      "x": 175,
+      "y": 317
+    },
+    {
+      "class": "obj",
+      "height": 123.7647058823531,
+      "id": "shampoo_0",
+      "type": "rect",
+      "width": 39.52941176470591,
+      "x": 216,
+      "y": 352
+    },
+    {
+      "class": "obj",
+      "height": 32.38551112867697,
+      "id": "peach_2",
+      "type": "rect",
+      "width": 36.03920104809379,
+      "x": 29.31798764049605,
+      "y": 330.9953962921489
+    },
+    {
+      "class": "obj",
+      "height": 37.100178687303014,
+      "id": "mushroom_0",
+      "type": "rect",
+      "width": 34.74994112340143,
+      "x": 94,
+      "y": 294
+    },
+    {
+      "class": "obj",
+      "height": 43.38756779307471,
+      "id": "food_cup_0",
+      "type": "rect",
+      "width": 52.398831873174885,
+      "x": 159,
+      "y": 304
+    },
+    {
+      "class": "obj",
+      "height": 14.675554845448119,
+      "id": "dry_battery_0",
+      "type": "rect",
+      "width": 26.27397722330221,
+      "x": 182,
+      "y": 291
+    },
+    {
+      "class": "obj",
+      "height": 38.611045692668256,
+      "id": "food_can_1",
+      "type": "rect",
+      "width": 40.457660921448024,
+      "x": 264,
+      "y": 281
+    },
+    {
+      "class": "obj",
+      "height": 54.05546396973557,
+      "id": "bell_pepper_2",
+      "type": "rect",
+      "width": 44.15089137900759,
+      "x": 259,
+      "y": 322
+    }
+  ],
+  "class": "image",
+  "filename": "wp_6_1_45_002.png"
+}

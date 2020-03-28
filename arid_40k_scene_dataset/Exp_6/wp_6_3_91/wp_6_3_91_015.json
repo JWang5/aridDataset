@@ -1,0 +1,60 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 37.47980433774438,
+      "id": "lightbulb_1",
+      "type": "rect",
+      "width": 37.61857301082682,
+      "x": 542,
+      "y": 294
+    },
+    {
+      "class": "obj",
+      "height": 36.850184409331035,
+      "id": "food_can_1",
+      "type": "rect",
+      "width": 44.333173830995435,
+      "x": 586,
+      "y": 271
+    },
+    {
+      "class": "obj",
+      "height": 42.19047436694049,
+      "id": "food_box_0",
+      "type": "rect",
+      "width": 71.47240129374967,
+      "x": 549,
+      "y": 211.60601079716184
+    },
+    {
+      "class": "obj",
+      "height": 31.563174119946154,
+      "id": "shampoo_0",
+      "type": "rect",
+      "width": 52.19725551822336,
+      "x": 587.5497076023391,
+      "y": 244.12865497076024
+    },
+    {
+      "class": "obj",
+      "height": 32.9995453673703,
+      "id": "instant_noodles_1",
+      "type": "rect",
+      "width": 32.876850166627946,
+      "x": 583,
+      "y": 160
+    },
+    {
+      "class": "obj",
+      "height": 58.48204616323767,
+      "id": "banana_1",
+      "type": "rect",
+      "width": 84.29095948708101,
+      "x": 480,
+      "y": 341
+    }
+  ],
+  "class": "image",
+  "filename": "wp_6_3_91_015.png"
+}

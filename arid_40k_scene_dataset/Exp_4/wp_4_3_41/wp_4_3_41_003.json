@@ -1,0 +1,141 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 67.75006600922995,
+      "id": "calculator_1",
+      "type": "rect",
+      "width": 78.38243215225242,
+      "x": 442,
+      "y": 343
+    },
+    {
+      "class": "obj",
+      "height": 26.29584405491738,
+      "id": "mushroom_1",
+      "type": "rect",
+      "width": 23.751084952828535,
+      "x": 452,
+      "y": 297
+    },
+    {
+      "class": "obj",
+      "height": 13.572048544473489,
+      "id": "rubber_eraser_1",
+      "type": "rect",
+      "width": 20.216697311038615,
+      "x": 414,
+      "y": 289
+    },
+    {
+      "class": "obj",
+      "height": 38.31276203700321,
+      "id": "pear_0",
+      "type": "rect",
+      "width": 34.919749900884824,
+      "x": 371,
+      "y": 301
+    },
+    {
+      "class": "obj",
+      "height": 21.528662003671002,
+      "id": "flashlight_0",
+      "type": "rect",
+      "width": 57.210425880125825,
+      "x": 294,
+      "y": 296
+    },
+    {
+      "class": "obj",
+      "height": 49.36422920448729,
+      "id": "notebook_0",
+      "type": "rect",
+      "width": 124.57063097982137,
+      "x": 313,
+      "y": 232
+    },
+    {
+      "class": "obj",
+      "height": 61.73253602216795,
+      "id": "keyboard_2",
+      "type": "rect",
+      "width": 157.1968102138837,
+      "x": 168,
+      "y": 267
+    },
+    {
+      "class": "obj",
+      "height": 40.2394245762286,
+      "id": "marker_1",
+      "type": "rect",
+      "width": 64.61978181947302,
+      "x": 345,
+      "y": 353
+    },
+    {
+      "class": "obj",
+      "height": 115.0257477104343,
+      "id": "notebook_1",
+      "type": "rect",
+      "width": 190.55780076310552,
+      "x": 141,
+      "y": 309
+    },
+    {
+      "class": "obj",
+      "height": 104.0551996844101,
+      "id": "pitcher_2",
+      "type": "rect",
+      "width": 68.7721147339492,
+      "x": 247,
+      "y": 161
+    },
+    {
+      "class": "obj",
+      "height": 15.155476917540994,
+      "id": "peach_0",
+      "type": "rect",
+      "width": 20.527448492173107,
+      "x": 327,
+      "y": 217
+    },
+    {
+      "class": "obj",
+      "height": 41.15256080022115,
+      "id": "cap_0",
+      "type": "rect",
+      "width": 63.17531672868472,
+      "x": 357,
+      "y": 179
+    },
+    {
+      "class": "obj",
+      "height": 32.23182944779262,
+      "id": "greens_1",
+      "type": "rect",
+      "width": 116.05404746993261,
+      "x": 287,
+      "y": 156
+    },
+    {
+      "class": "obj",
+      "height": 13.484579663337769,
+      "id": "flashlight_1",
+      "type": "rect",
+      "width": 48.31649687687553,
+      "x": 363,
+      "y": 222
+    },
+    {
+      "class": "obj",
+      "height": 32.29299300550659,
+      "id": "food_bag_2",
+      "type": "rect",
+      "width": 35.48242441345786,
+      "x": 217,
+      "y": 171
+    }
+  ],
+  "class": "image",
+  "filename": "wp_4_3_41_003.png"
+}

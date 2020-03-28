@@ -1,0 +1,69 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 27.92719786454927,
+      "id": "toothbrush_2",
+      "type": "rect",
+      "width": 87.01754385964912,
+      "x": 164,
+      "y": 304
+    },
+    {
+      "class": "obj",
+      "height": 11.890424108590253,
+      "id": "dry_battery_0",
+      "type": "rect",
+      "width": 22.195458336035117,
+      "x": 93,
+      "y": 263
+    },
+    {
+      "class": "obj",
+      "height": 38.64387835291825,
+      "id": "food_can_1",
+      "type": "rect",
+      "width": 44.985437877499756,
+      "x": 91.1616484380066,
+      "y": 280.99999999999994
+    },
+    {
+      "class": "obj",
+      "height": 69.0141429223176,
+      "id": "instant_noodles_1",
+      "type": "rect",
+      "width": 60.71917382107754,
+      "x": 29,
+      "y": 293
+    },
+    {
+      "class": "obj",
+      "height": 24.553108539670745,
+      "id": "mushroom_0",
+      "type": "rect",
+      "width": 46.12002820289496,
+      "x": 34,
+      "y": 245
+    },
+    {
+      "class": "obj",
+      "height": 37.89473684210526,
+      "id": "cell_phone_1",
+      "type": "rect",
+      "width": 68.77192982456143,
+      "x": 26,
+      "y": 379
+    },
+    {
+      "class": "obj",
+      "height": 40.701754385964875,
+      "id": "food_cup_0",
+      "type": "rect",
+      "width": 45.380116959064324,
+      "x": 11.228070175438596,
+      "y": 262.4561403508772
+    }
+  ],
+  "class": "image",
+  "filename": "wp_6_2_46_002.png"
+}

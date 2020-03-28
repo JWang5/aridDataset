@@ -1,0 +1,186 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 43.19543909688804,
+      "id": "flashlight_0",
+      "type": "rect",
+      "width": 19.460613056007503,
+      "x": 447,
+      "y": 289
+    },
+    {
+      "class": "obj",
+      "height": 61.23733695542609,
+      "id": "food_jar_0",
+      "type": "rect",
+      "width": 29.67428490859328,
+      "x": 362,
+      "y": 259
+    },
+    {
+      "class": "obj",
+      "height": 53.1360117987833,
+      "id": "notebook_1",
+      "type": "rect",
+      "width": 131.91920804820438,
+      "x": 338,
+      "y": 249
+    },
+    {
+      "class": "obj",
+      "height": 83.03603472422651,
+      "id": "soda_can_2",
+      "type": "rect",
+      "width": 36.37737976809389,
+      "x": 351,
+      "y": 291
+    },
+    {
+      "class": "obj",
+      "height": 47.9008785223792,
+      "id": "cap_0",
+      "type": "rect",
+      "width": 82.99670194032659,
+      "x": 325,
+      "y": 199
+    },
+    {
+      "class": "obj",
+      "height": 39.43960123329424,
+      "id": "calculator_1",
+      "type": "rect",
+      "width": 36.98910468444854,
+      "x": 278,
+      "y": 251
+    },
+    {
+      "class": "obj",
+      "height": 42.465583934504764,
+      "id": "camera_0",
+      "type": "rect",
+      "width": 61.38787248484398,
+      "x": 253,
+      "y": 369
+    },
+    {
+      "class": "obj",
+      "height": 73.42046892694734,
+      "id": "food_bag_2",
+      "type": "rect",
+      "width": 34.57497509209892,
+      "x": 275,
+      "y": 156
+    },
+    {
+      "class": "obj",
+      "height": 31.735001515629193,
+      "id": "pear_0",
+      "type": "rect",
+      "width": 26.5326469181148,
+      "x": 253,
+      "y": 221
+    },
+    {
+      "class": "obj",
+      "height": 70.29055866993161,
+      "id": "pitcher_2",
+      "type": "rect",
+      "width": 45.398113208285416,
+      "x": 270,
+      "y": 130
+    },
+    {
+      "class": "obj",
+      "height": 31.619190008168573,
+      "id": "scissors_2",
+      "type": "rect",
+      "width": 52.91720006319676,
+      "x": 211,
+      "y": 269
+    },
+    {
+      "class": "obj",
+      "height": 42.46851383693567,
+      "id": "greens_1",
+      "type": "rect",
+      "width": 142.72892077967262,
+      "x": 168,
+      "y": 187
+    },
+    {
+      "class": "obj",
+      "height": 99.65010913860095,
+      "id": "notebook_0",
+      "type": "rect",
+      "width": 158.43290891283053,
+      "x": 138,
+      "y": 300
+    },
+    {
+      "class": "obj",
+      "height": 22.084728325505353,
+      "id": "mushroom_1",
+      "type": "rect",
+      "width": 24.1876382891525,
+      "x": 170,
+      "y": 277
+    },
+    {
+      "class": "obj",
+      "height": 22.065030319233927,
+      "id": "marker_1",
+      "type": "rect",
+      "width": 56.147854464721284,
+      "x": 163,
+      "y": 254
+    },
+    {
+      "class": "obj",
+      "height": 23.404519301313883,
+      "id": "apple_0",
+      "type": "rect",
+      "width": 24.548169197810534,
+      "x": 196,
+      "y": 178
+    },
+    {
+      "class": "obj",
+      "height": 10.977327449509374,
+      "id": "flashlight_1",
+      "type": "rect",
+      "width": 40.3741329750255,
+      "x": 217,
+      "y": 185
+    },
+    {
+      "class": "obj",
+      "height": 13.317848562454316,
+      "id": "peach_0",
+      "type": "rect",
+      "width": 20.44971417072825,
+      "x": 158,
+      "y": 182
+    },
+    {
+      "class": "obj",
+      "height": 32.86942222974989,
+      "id": "keyboard_2",
+      "type": "rect",
+      "width": 114.45180114531613,
+      "x": 135,
+      "y": 221
+    },
+    {
+      "class": "obj",
+      "height": 20.336477063010705,
+      "id": "notebook_2",
+      "type": "rect",
+      "width": 51.78707531162031,
+      "x": 223,
+      "y": 165
+    }
+  ],
+  "class": "image",
+  "filename": "wp_4_2_9_011.png"
+}

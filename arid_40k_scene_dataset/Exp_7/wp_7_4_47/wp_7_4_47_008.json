@@ -1,0 +1,96 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 40.55749326422733,
+      "id": "sponge_0",
+      "type": "rect",
+      "width": 49.399332052985244,
+      "x": 511,
+      "y": 284
+    },
+    {
+      "class": "obj",
+      "height": 35.227660724978506,
+      "id": "apple_1",
+      "type": "rect",
+      "width": 36.70833833148106,
+      "x": 561,
+      "y": 267
+    },
+    {
+      "class": "obj",
+      "height": 75.57591513651363,
+      "id": "soda_can_0",
+      "type": "rect",
+      "width": 33.30270335769163,
+      "x": 389,
+      "y": 121
+    },
+    {
+      "class": "obj",
+      "height": 31.14630256307808,
+      "id": "peach_1",
+      "type": "rect",
+      "width": 30.028594411900315,
+      "x": 354,
+      "y": 155
+    },
+    {
+      "class": "obj",
+      "height": 183.90229696068977,
+      "id": "water_bottle_0",
+      "type": "rect",
+      "width": 58.497571247235385,
+      "x": 318,
+      "y": 188
+    },
+    {
+      "class": "obj",
+      "height": 32.72333130930946,
+      "id": "mushroom_2",
+      "type": "rect",
+      "width": 29.90052560282703,
+      "x": 361,
+      "y": 356
+    },
+    {
+      "class": "obj",
+      "height": 115.97515748789158,
+      "id": "kleenex_2",
+      "type": "rect",
+      "width": 80.09924709665017,
+      "x": 395,
+      "y": 257
+    },
+    {
+      "class": "obj",
+      "height": 68.2985661663692,
+      "id": "food_can_2",
+      "type": "rect",
+      "width": 42.763669486655374,
+      "x": 468,
+      "y": 275
+    },
+    {
+      "class": "obj",
+      "height": 44.75232781247257,
+      "id": "plate_0",
+      "type": "rect",
+      "width": 144.36065321376333,
+      "x": 150,
+      "y": 183
+    },
+    {
+      "class": "obj",
+      "height": 136.6081871345029,
+      "id": "soda_can_0",
+      "type": "rect",
+      "width": 92.16374269005847,
+      "x": 0.935672514619883,
+      "y": 67.83625730994152
+    }
+  ],
+  "class": "image",
+  "filename": "wp_7_4_47_008.png"
+}

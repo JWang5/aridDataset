@@ -1,0 +1,105 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 76.63706483183591,
+      "id": "food_box_0",
+      "type": "rect",
+      "width": 74.20022975101216,
+      "x": 342,
+      "y": 267
+    },
+    {
+      "class": "obj",
+      "height": 92.70578573402702,
+      "id": "water_bottle_2",
+      "type": "rect",
+      "width": 47.293996873416106,
+      "x": 164,
+      "y": 306
+    },
+    {
+      "class": "obj",
+      "height": 48.76071448648872,
+      "id": "bell_pepper_2",
+      "type": "rect",
+      "width": 45.68358201889477,
+      "x": 115,
+      "y": 268
+    },
+    {
+      "class": "obj",
+      "height": 38.40833690609628,
+      "id": "glue_stick_0",
+      "type": "rect",
+      "width": 29.40757391554862,
+      "x": 94,
+      "y": 355
+    },
+    {
+      "class": "obj",
+      "height": 54.82587329040922,
+      "id": "instant_noodles_1",
+      "type": "rect",
+      "width": 45.89313683037085,
+      "x": 259,
+      "y": 246
+    },
+    {
+      "class": "obj",
+      "height": 34.08238362904501,
+      "id": "mushroom_0",
+      "type": "rect",
+      "width": 60.63493831678937,
+      "x": 251,
+      "y": 327
+    },
+    {
+      "class": "obj",
+      "height": 41.66823006243874,
+      "id": "peach_2",
+      "type": "rect",
+      "width": 47.71089738329019,
+      "x": 212,
+      "y": 429
+    },
+    {
+      "class": "obj",
+      "height": 81.50667186350182,
+      "id": "shampoo_2",
+      "type": "rect",
+      "width": 39.34982715982106,
+      "x": 189,
+      "y": 251
+    },
+    {
+      "class": "obj",
+      "height": 111.96420470130772,
+      "id": "shampoo_0",
+      "type": "rect",
+      "width": 38.30435251048516,
+      "x": 269,
+      "y": 308
+    },
+    {
+      "class": "obj",
+      "height": 68.35054539421839,
+      "id": "toothpaste_1",
+      "type": "rect",
+      "width": 37.49326033760525,
+      "x": 396,
+      "y": 401
+    },
+    {
+      "class": "obj",
+      "height": 46.31578947368422,
+      "id": "food_cup_0",
+      "type": "rect",
+      "width": 45.380116959064324,
+      "x": 26,
+      "y": 291
+    }
+  ],
+  "class": "image",
+  "filename": "wp_6_1_49_004.png"
+}

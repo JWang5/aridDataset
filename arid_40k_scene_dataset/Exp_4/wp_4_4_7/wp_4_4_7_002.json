@@ -1,0 +1,60 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 160.3152709359606,
+      "id": "cereal_box_0",
+      "type": "rect",
+      "width": 43.98029556650249,
+      "x": 309,
+      "y": 181
+    },
+    {
+      "class": "obj",
+      "height": 56.74876847290642,
+      "id": "coffee_mug_2",
+      "type": "rect",
+      "width": 65.73399014778323,
+      "x": 237,
+      "y": 307
+    },
+    {
+      "class": "obj",
+      "height": 34.049261083743886,
+      "id": "comb_1",
+      "type": "rect",
+      "width": 139.50738916256157,
+      "x": 137,
+      "y": 378
+    },
+    {
+      "class": "obj",
+      "height": 52.019704433497566,
+      "id": "toothpaste_0",
+      "type": "rect",
+      "width": 138.0886699507389,
+      "x": 75,
+      "y": 411
+    },
+    {
+      "class": "obj",
+      "height": 86.54187192118229,
+      "id": "bell_pepper_1",
+      "type": "rect",
+      "width": 74.2463054187192,
+      "x": 70.76101860920664,
+      "y": 328.05974534769825
+    },
+    {
+      "class": "obj",
+      "height": 94.01852216748765,
+      "id": "hand_towel_0",
+      "type": "rect",
+      "width": 198.70581280788173,
+      "x": 57,
+      "y": 171
+    }
+  ],
+  "class": "image",
+  "filename": "wp_4_4_7_002.png"
+}

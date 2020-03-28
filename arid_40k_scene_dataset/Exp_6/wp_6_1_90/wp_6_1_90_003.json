@@ -1,0 +1,123 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 61.11577093198861,
+      "id": "cell_phone_1",
+      "type": "rect",
+      "width": 81.48985452088013,
+      "x": 249,
+      "y": 409
+    },
+    {
+      "class": "obj",
+      "height": 51.070758526130305,
+      "id": "cell_phone_2",
+      "type": "rect",
+      "width": 103.72242105751097,
+      "x": 93,
+      "y": 411
+    },
+    {
+      "class": "obj",
+      "height": 69.23976608187138,
+      "id": "bell_pepper_2",
+      "type": "rect",
+      "width": 69.23976608187132,
+      "x": 463,
+      "y": 411
+    },
+    {
+      "class": "obj",
+      "height": 44.520779920709515,
+      "id": "toothpaste_2",
+      "type": "rect",
+      "width": 75.25193774208424,
+      "x": 405,
+      "y": 343
+    },
+    {
+      "class": "obj",
+      "height": 30.45732135415392,
+      "id": "shampoo_2",
+      "type": "rect",
+      "width": 79.35669050073122,
+      "x": 273,
+      "y": 295
+    },
+    {
+      "class": "obj",
+      "height": 55.884993310374085,
+      "id": "instant_noodles_1",
+      "type": "rect",
+      "width": 41.354895049676884,
+      "x": 386,
+      "y": 242
+    },
+    {
+      "class": "obj",
+      "height": 40.58088789232818,
+      "id": "food_box_0",
+      "type": "rect",
+      "width": 146.56398345578714,
+      "x": 95,
+      "y": 281
+    },
+    {
+      "class": "obj",
+      "height": 48.94620065412602,
+      "id": "food_cup_0",
+      "type": "rect",
+      "width": 51.77001992263324,
+      "x": 125,
+      "y": 308
+    },
+    {
+      "class": "obj",
+      "height": 81.42012224195952,
+      "id": "water_bottle_2",
+      "type": "rect",
+      "width": 40.23942457622857,
+      "x": 199,
+      "y": 271
+    },
+    {
+      "class": "obj",
+      "height": 34.827104311589665,
+      "id": "peach_2",
+      "type": "rect",
+      "width": 34.12114949446283,
+      "x": 305,
+      "y": 326
+    },
+    {
+      "class": "obj",
+      "height": 56.94702191489654,
+      "id": "mushroom_0",
+      "type": "rect",
+      "width": 52.475974739760034,
+      "x": 348,
+      "y": 385
+    },
+    {
+      "class": "obj",
+      "height": 37.42690058479536,
+      "id": "shampoo_0",
+      "type": "rect",
+      "width": 86.54970760233923,
+      "x": 25,
+      "y": 315
+    },
+    {
+      "class": "obj",
+      "height": 16.52234678381916,
+      "id": "dry_battery_2",
+      "type": "rect",
+      "width": 29.70684573252329,
+      "x": 148,
+      "y": 367
+    }
+  ],
+  "class": "image",
+  "filename": "wp_6_1_90_003.png"
+}

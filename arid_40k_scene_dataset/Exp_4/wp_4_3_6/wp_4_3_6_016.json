@@ -1,0 +1,51 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 27.001142436151156,
+      "id": "camera_1",
+      "type": "rect",
+      "width": 52.81326612088894,
+      "x": 442,
+      "y": 310
+    },
+    {
+      "class": "obj",
+      "height": 140.4492461755891,
+      "id": "notebook_2",
+      "type": "rect",
+      "width": 178.01269061659787,
+      "x": 437,
+      "y": 338
+    },
+    {
+      "class": "obj",
+      "height": 121.57964929401729,
+      "id": "pitcher_2",
+      "type": "rect",
+      "width": 80.8360972649808,
+      "x": 510,
+      "y": 203
+    },
+    {
+      "class": "obj",
+      "height": 92.83948566954157,
+      "id": "food_bag_2",
+      "type": "rect",
+      "width": 68.7730375637579,
+      "x": 562,
+      "y": 205
+    },
+    {
+      "class": "obj",
+      "height": 17.54233579960072,
+      "id": "flashlight_0",
+      "type": "rect",
+      "width": 35.217035763320865,
+      "x": 569.8717640282896,
+      "y": 176.2364706635234
+    }
+  ],
+  "class": "image",
+  "filename": "wp_4_3_6_016.png"
+}

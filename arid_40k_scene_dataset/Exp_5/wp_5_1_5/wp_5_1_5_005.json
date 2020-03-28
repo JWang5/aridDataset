@@ -1,0 +1,132 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 67.15270935960592,
+      "id": "stapler_1",
+      "type": "rect",
+      "width": 47.76354679802961,
+      "x": 474,
+      "y": 413
+    },
+    {
+      "class": "obj",
+      "height": 66.20689655172418,
+      "id": "cell_phone_1",
+      "type": "rect",
+      "width": 64.78817733990144,
+      "x": 355,
+      "y": 414
+    },
+    {
+      "class": "obj",
+      "height": 70.3149098879818,
+      "id": "kleenex_1",
+      "type": "rect",
+      "width": 107.20994662874116,
+      "x": 166,
+      "y": 246
+    },
+    {
+      "class": "obj",
+      "height": 53.4384236453202,
+      "id": "bell_pepper_2",
+      "type": "rect",
+      "width": 47.76354679802955,
+      "x": 261,
+      "y": 296
+    },
+    {
+      "class": "obj",
+      "height": 102.62068965517244,
+      "id": "water_bottle_2",
+      "type": "rect",
+      "width": 48.709359605911345,
+      "x": 251,
+      "y": 340
+    },
+    {
+      "class": "obj",
+      "height": 17.49753694581284,
+      "id": "dry_battery_2",
+      "type": "rect",
+      "width": 19.86206896551721,
+      "x": 444,
+      "y": 340
+    },
+    {
+      "class": "obj",
+      "height": 21.533109662842435,
+      "id": "dry_battery_0",
+      "type": "rect",
+      "width": 27.662907110062804,
+      "x": 480,
+      "y": 377
+    },
+    {
+      "class": "obj",
+      "height": 54.13029226743703,
+      "id": "glue_stick_0",
+      "type": "rect",
+      "width": 27.789970582381642,
+      "x": 150,
+      "y": 405
+    },
+    {
+      "class": "obj",
+      "height": 54.95042375430057,
+      "id": "food_cup_1",
+      "type": "rect",
+      "width": 34.713427453185915,
+      "x": 354,
+      "y": 253
+    },
+    {
+      "class": "obj",
+      "height": 78.02087444927866,
+      "id": "toothpaste_1",
+      "type": "rect",
+      "width": 32.35011867409111,
+      "x": 362,
+      "y": 291
+    },
+    {
+      "class": "obj",
+      "height": 106.00127446979837,
+      "id": "shampoo_0",
+      "type": "rect",
+      "width": 46.34443758950117,
+      "x": 148,
+      "y": 299
+    },
+    {
+      "class": "obj",
+      "height": 102.71038318674277,
+      "id": "food_bag_0",
+      "type": "rect",
+      "width": 62.35364183305808,
+      "x": 83.70127326150832,
+      "y": 262.94025465230163
+    },
+    {
+      "class": "obj",
+      "height": 63.6693534059703,
+      "id": "lightbulb_1",
+      "type": "rect",
+      "width": 77.58383921956691,
+      "x": 31.21190032833819,
+      "y": 394
+    },
+    {
+      "class": "obj",
+      "height": 46.89260263950723,
+      "id": "toothbrush_2",
+      "type": "rect",
+      "width": 49.683828987096966,
+      "x": 0.5582452695179435,
+      "y": 374.02433057702217
+    }
+  ],
+  "class": "image",
+  "filename": "wp_5_1_5_005.png"
+}

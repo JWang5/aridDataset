@@ -1,0 +1,33 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 73.50003855479977,
+      "id": "food_cup_0",
+      "type": "rect",
+      "width": 95.4479863406084,
+      "x": 507,
+      "y": 178
+    },
+    {
+      "class": "obj",
+      "height": 71.6776916531613,
+      "id": "banana_1",
+      "type": "rect",
+      "width": 171.25402539176986,
+      "x": 392,
+      "y": 202
+    },
+    {
+      "class": "obj",
+      "height": 150.17543859649118,
+      "id": "instant_noodles_1",
+      "type": "rect",
+      "width": 131.92982456140354,
+      "x": 212.2748538011696,
+      "y": 65.40350877192982
+    }
+  ],
+  "class": "image",
+  "filename": "wp_5_4_52_015.png"
+}

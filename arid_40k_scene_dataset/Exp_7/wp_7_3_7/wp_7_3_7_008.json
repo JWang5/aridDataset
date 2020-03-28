@@ -1,0 +1,150 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 203.3412800537495,
+      "id": "binder_1",
+      "type": "rect",
+      "width": 122.07400321312224,
+      "x": 234,
+      "y": 183
+    },
+    {
+      "class": "obj",
+      "height": 54.927164043715436,
+      "id": "banana_0",
+      "type": "rect",
+      "width": 89.46657418406338,
+      "x": 358,
+      "y": 337
+    },
+    {
+      "class": "obj",
+      "height": 39.599698476025026,
+      "id": "lemon_2",
+      "type": "rect",
+      "width": 38.78258008812526,
+      "x": 470,
+      "y": 342
+    },
+    {
+      "class": "obj",
+      "height": 99.00744816898089,
+      "id": "pitcher_1",
+      "type": "rect",
+      "width": 122.12003554012693,
+      "x": 513,
+      "y": 279
+    },
+    {
+      "class": "obj",
+      "height": 83.70055675827405,
+      "id": "food_box_2",
+      "type": "rect",
+      "width": 58.18507699261659,
+      "x": 516,
+      "y": 224
+    },
+    {
+      "class": "obj",
+      "height": 34.67270646258709,
+      "id": "instant_noodles_0",
+      "type": "rect",
+      "width": 70.6458305910709,
+      "x": 425,
+      "y": 268
+    },
+    {
+      "class": "obj",
+      "height": 20.90153808914701,
+      "id": "scissors_1",
+      "type": "rect",
+      "width": 43.78024870024035,
+      "x": 448,
+      "y": 244
+    },
+    {
+      "class": "obj",
+      "height": 30.667578660680107,
+      "id": "plate_2",
+      "type": "rect",
+      "width": 76.82403897052177,
+      "x": 463,
+      "y": 206
+    },
+    {
+      "class": "obj",
+      "height": 13.804863890265352,
+      "id": "potato_2",
+      "type": "rect",
+      "width": 26.05649048701889,
+      "x": 476,
+      "y": 174
+    },
+    {
+      "class": "obj",
+      "height": 34.54268495342404,
+      "id": "hand_towel_1",
+      "type": "rect",
+      "width": 87.57883735686545,
+      "x": 395,
+      "y": 182
+    },
+    {
+      "class": "obj",
+      "height": 17.3531801311525,
+      "id": "orange_2",
+      "type": "rect",
+      "width": 18.306576403110313,
+      "x": 430,
+      "y": 162
+    },
+    {
+      "class": "obj",
+      "height": 26.00727421130199,
+      "id": "ball_0",
+      "type": "rect",
+      "width": 25.422449430079865,
+      "x": 383,
+      "y": 158
+    },
+    {
+      "class": "obj",
+      "height": 70.69179228641465,
+      "id": "food_bag_1",
+      "type": "rect",
+      "width": 44.59055538054608,
+      "x": 376,
+      "y": 198
+    },
+    {
+      "class": "obj",
+      "height": 63.320303460297225,
+      "id": "bowl_2",
+      "type": "rect",
+      "width": 66.37020999722901,
+      "x": 349,
+      "y": 253
+    },
+    {
+      "class": "obj",
+      "height": 16.03986956918959,
+      "id": "comb_0",
+      "type": "rect",
+      "width": 26.13712786838653,
+      "x": 485,
+      "y": 190
+    },
+    {
+      "class": "obj",
+      "height": 99.17231311901125,
+      "id": "binder_2",
+      "type": "rect",
+      "width": 41.017411506544164,
+      "x": 340,
+      "y": 107
+    }
+  ],
+  "class": "image",
+  "filename": "wp_7_3_7_008.png"
+}

@@ -1,0 +1,195 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 47.215659123583976,
+      "id": "stapler_1",
+      "type": "rect",
+      "width": 56.38242742777243,
+      "x": 481,
+      "y": 336
+    },
+    {
+      "class": "obj",
+      "height": 42.30517324687543,
+      "id": "glue_stick_0",
+      "type": "rect",
+      "width": 13.655413937783692,
+      "x": 386,
+      "y": 303
+    },
+    {
+      "class": "obj",
+      "height": 24.5212709849705,
+      "id": "dry_battery_0",
+      "type": "rect",
+      "width": 12.117529164333007,
+      "x": 452,
+      "y": 299
+    },
+    {
+      "class": "obj",
+      "height": 34.91426088507342,
+      "id": "toothbrush_2",
+      "type": "rect",
+      "width": 71.03639284819866,
+      "x": 451,
+      "y": 274
+    },
+    {
+      "class": "obj",
+      "height": 62.417754516650035,
+      "id": "toothpaste_1",
+      "type": "rect",
+      "width": 18.691947876643837,
+      "x": 392,
+      "y": 235
+    },
+    {
+      "class": "obj",
+      "height": 52.29883643759604,
+      "id": "cap_1",
+      "type": "rect",
+      "width": 88.61117744125977,
+      "x": 406,
+      "y": 211
+    },
+    {
+      "class": "obj",
+      "height": 32.06670357032118,
+      "id": "lightbulb_1",
+      "type": "rect",
+      "width": 32.94501018456509,
+      "x": 289,
+      "y": 272
+    },
+    {
+      "class": "obj",
+      "height": 28.59375263188798,
+      "id": "food_can_1",
+      "type": "rect",
+      "width": 33.99312602590439,
+      "x": 323,
+      "y": 245
+    },
+    {
+      "class": "obj",
+      "height": 38.76511089523595,
+      "id": "food_box_0",
+      "type": "rect",
+      "width": 56.50336123917532,
+      "x": 283,
+      "y": 195
+    },
+    {
+      "class": "obj",
+      "height": 24.176302594335624,
+      "id": "food_cup_0",
+      "type": "rect",
+      "width": 31.39130242561032,
+      "x": 342,
+      "y": 197
+    },
+    {
+      "class": "obj",
+      "height": 13.156897149014895,
+      "id": "cell_phone_1",
+      "type": "rect",
+      "width": 36.339769095874374,
+      "x": 419,
+      "y": 190
+    },
+    {
+      "class": "obj",
+      "height": 14.898167322819916,
+      "id": "mushroom_0",
+      "type": "rect",
+      "width": 28.671944659011956,
+      "x": 410,
+      "y": 175
+    },
+    {
+      "class": "obj",
+      "height": 19.37298232955672,
+      "id": "toothpaste_2",
+      "type": "rect",
+      "width": 20.812052171742494,
+      "x": 380,
+      "y": 160
+    },
+    {
+      "class": "obj",
+      "height": 31.188528651650188,
+      "id": "shampoo_0",
+      "type": "rect",
+      "width": 42.30696231072591,
+      "x": 321,
+      "y": 217
+    },
+    {
+      "class": "obj",
+      "height": 20.891165951546725,
+      "id": "shampoo_2",
+      "type": "rect",
+      "width": 26.050710502685575,
+      "x": 324,
+      "y": 174
+    },
+    {
+      "class": "obj",
+      "height": 29.91404397798911,
+      "id": "instant_noodles_1",
+      "type": "rect",
+      "width": 24.15532980052069,
+      "x": 302,
+      "y": 147
+    },
+    {
+      "class": "obj",
+      "height": 23.848965594189536,
+      "id": "bell_pepper_2",
+      "type": "rect",
+      "width": 25.403038962954042,
+      "x": 435,
+      "y": 154
+    },
+    {
+      "class": "obj",
+      "height": 9.737698025082665,
+      "id": "dry_battery_2",
+      "type": "rect",
+      "width": 9.905589370342739,
+      "x": 385,
+      "y": 209
+    },
+    {
+      "class": "obj",
+      "height": 39.86355755552455,
+      "id": "water_bottle_2",
+      "type": "rect",
+      "width": 20.384342323599355,
+      "x": 351,
+      "y": 160
+    },
+    {
+      "class": "obj",
+      "height": 68.01207649347248,
+      "id": "banana_1",
+      "type": "rect",
+      "width": 72.24318482564678,
+      "x": 245,
+      "y": 317
+    },
+    {
+      "class": "obj",
+      "height": 16.578312425974104,
+      "id": "cell_phone_2",
+      "type": "rect",
+      "width": 33.43016110329518,
+      "x": 419,
+      "y": 206
+    }
+  ],
+  "class": "image",
+  "filename": "wp_6_3_91_005.png"
+}

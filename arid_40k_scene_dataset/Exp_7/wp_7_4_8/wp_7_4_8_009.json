@@ -1,0 +1,87 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 123.39341016900894,
+      "id": "kleenex_2",
+      "type": "rect",
+      "width": 75.37054556868327,
+      "x": 564.9843290891283,
+      "y": 222
+    },
+    {
+      "class": "obj",
+      "height": 181.60548681558262,
+      "id": "water_bottle_0",
+      "type": "rect",
+      "width": 71.2364406839626,
+      "x": 508,
+      "y": 176
+    },
+    {
+      "class": "obj",
+      "height": 80.49502430149471,
+      "id": "food_can_2",
+      "type": "rect",
+      "width": 53.30018100803875,
+      "x": 457,
+      "y": 303
+    },
+    {
+      "class": "obj",
+      "height": 78.5178428331867,
+      "id": "plate_0",
+      "type": "rect",
+      "width": 124.98553585373043,
+      "x": 315,
+      "y": 343
+    },
+    {
+      "class": "obj",
+      "height": 82.54338172047804,
+      "id": "soda_can_0",
+      "type": "rect",
+      "width": 44.142068779937915,
+      "x": 475,
+      "y": 128
+    },
+    {
+      "class": "obj",
+      "height": 65.75787231472725,
+      "id": "food_jar_1",
+      "type": "rect",
+      "width": 46.595154911876506,
+      "x": 424,
+      "y": 145
+    },
+    {
+      "class": "obj",
+      "height": 27.539009857298083,
+      "id": "mushroom_2",
+      "type": "rect",
+      "width": 28.199680417458836,
+      "x": 386,
+      "y": 179
+    },
+    {
+      "class": "obj",
+      "height": 61.5866797257591,
+      "id": "sponge_0",
+      "type": "rect",
+      "width": 88.85406464250738,
+      "x": 215,
+      "y": 184
+    },
+    {
+      "class": "obj",
+      "height": 63.46718903036236,
+      "id": "apple_1",
+      "type": "rect",
+      "width": 70.51909892262489,
+      "x": 148,
+      "y": 189
+    }
+  ],
+  "class": "image",
+  "filename": "wp_7_4_8_009.png"
+}

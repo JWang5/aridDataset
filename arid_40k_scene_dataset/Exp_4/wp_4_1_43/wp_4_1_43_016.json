@@ -1,0 +1,132 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 142.8348187804292,
+      "id": "greens_1",
+      "type": "rect",
+      "width": 142.96499066500823,
+      "x": 444,
+      "y": 276
+    },
+    {
+      "class": "obj",
+      "height": 49.95419644951056,
+      "id": "apple_0",
+      "type": "rect",
+      "width": 44.00785576748045,
+      "x": 436,
+      "y": 332
+    },
+    {
+      "class": "obj",
+      "height": 58.887657641936755,
+      "id": "food_jar_0",
+      "type": "rect",
+      "width": 54.00994143946687,
+      "x": 455,
+      "y": 421.63157894736844
+    },
+    {
+      "class": "obj",
+      "height": 60.2438685142983,
+      "id": "scissors_2",
+      "type": "rect",
+      "width": 134.75917110691114,
+      "x": 504.48538011695905,
+      "y": 419.6315789473684
+    },
+    {
+      "class": "obj",
+      "height": 107.92326302852433,
+      "id": "notebook_0",
+      "type": "rect",
+      "width": 183.92766264415158,
+      "x": 232,
+      "y": 326
+    },
+    {
+      "class": "obj",
+      "height": 48.552422891389824,
+      "id": "marker_1",
+      "type": "rect",
+      "width": 80.28789958945254,
+      "x": 344,
+      "y": 427
+    },
+    {
+      "class": "obj",
+      "height": 124.88617710765595,
+      "id": "pitcher_2",
+      "type": "rect",
+      "width": 67.94150775751125,
+      "x": 352,
+      "y": 214
+    },
+    {
+      "class": "obj",
+      "height": 31.809337068935974,
+      "id": "flashlight_0",
+      "type": "rect",
+      "width": 21.73487046157285,
+      "x": 314,
+      "y": 263
+    },
+    {
+      "class": "obj",
+      "height": 54.814496193874106,
+      "id": "keyboard_2",
+      "type": "rect",
+      "width": 147.0023420522457,
+      "x": 151,
+      "y": 289
+    },
+    {
+      "class": "obj",
+      "height": 49.8415356266909,
+      "id": "notebook_1",
+      "type": "rect",
+      "width": 127.37573086888801,
+      "x": 180,
+      "y": 236
+    },
+    {
+      "class": "obj",
+      "height": 40.204606797230156,
+      "id": "camera_1",
+      "type": "rect",
+      "width": 34.86533088821195,
+      "x": 188,
+      "y": 362
+    },
+    {
+      "class": "obj",
+      "height": 110.58861573996563,
+      "id": "food_bag_2",
+      "type": "rect",
+      "width": 71.96148525404587,
+      "x": 99,
+      "y": 281
+    },
+    {
+      "class": "obj",
+      "height": 26.01279172677988,
+      "id": "flashlight_1",
+      "type": "rect",
+      "width": 64.94093076994092,
+      "x": 120,
+      "y": 269
+    },
+    {
+      "class": "obj",
+      "height": 28.297092848648276,
+      "id": "camera_0",
+      "type": "rect",
+      "width": 50.36380499057109,
+      "x": 28,
+      "y": 322
+    }
+  ],
+  "class": "image",
+  "filename": "wp_4_1_43_016.png"
+}

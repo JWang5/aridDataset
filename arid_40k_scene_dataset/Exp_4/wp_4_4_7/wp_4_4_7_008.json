@@ -1,0 +1,78 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 165.01654419746896,
+      "id": "cereal_box_0",
+      "type": "rect",
+      "width": 44.920550218804124,
+      "x": 463,
+      "y": 188
+    },
+    {
+      "class": "obj",
+      "height": 59.569532429811375,
+      "id": "coffee_mug_2",
+      "type": "rect",
+      "width": 67.14437212623562,
+      "x": 383,
+      "y": 308
+    },
+    {
+      "class": "obj",
+      "height": 17.124677342313817,
+      "id": "comb_1",
+      "type": "rect",
+      "width": 135.2762432272041,
+      "x": 279,
+      "y": 378
+    },
+    {
+      "class": "obj",
+      "height": 26.632828821352632,
+      "id": "toothpaste_0",
+      "type": "rect",
+      "width": 122.57446818776151,
+      "x": 226,
+      "y": 399
+    },
+    {
+      "class": "obj",
+      "height": 77.6094527243165,
+      "id": "bell_pepper_1",
+      "type": "rect",
+      "width": 63.43337691725009,
+      "x": 229,
+      "y": 309
+    },
+    {
+      "class": "obj",
+      "height": 86.02635762292346,
+      "id": "hand_towel_0",
+      "type": "rect",
+      "width": 180.84097441415005,
+      "x": 233,
+      "y": 164
+    },
+    {
+      "class": "obj",
+      "height": 20.685602350636657,
+      "id": "toothbrush_0",
+      "type": "rect",
+      "width": 136.3369245837415,
+      "x": 203,
+      "y": 437
+    },
+    {
+      "class": "obj",
+      "height": 174.41723800195885,
+      "id": "kleenex_0",
+      "type": "rect",
+      "width": 141.5083251714006,
+      "x": 0.940254652301665,
+      "y": 129.75514201762977
+    }
+  ],
+  "class": "image",
+  "filename": "wp_4_4_7_008.png"
+}

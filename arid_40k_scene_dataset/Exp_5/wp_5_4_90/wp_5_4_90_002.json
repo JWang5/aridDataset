@@ -1,0 +1,60 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 108.64644635581715,
+      "id": "water_bottle_1",
+      "type": "rect",
+      "width": 40.476127073735825,
+      "x": 347,
+      "y": 214
+    },
+    {
+      "class": "obj",
+      "height": 66.97584689893728,
+      "id": "banana_1",
+      "type": "rect",
+      "width": 122.85510377911572,
+      "x": 242,
+      "y": 323
+    },
+    {
+      "class": "obj",
+      "height": 54.2462480653611,
+      "id": "shampoo_2",
+      "type": "rect",
+      "width": 44.970982852112826,
+      "x": 191,
+      "y": 176
+    },
+    {
+      "class": "obj",
+      "height": 62.67830735013223,
+      "id": "food_cup_0",
+      "type": "rect",
+      "width": 71.6725039205548,
+      "x": 112,
+      "y": 175
+    },
+    {
+      "class": "obj",
+      "height": 43.129411764705935,
+      "id": "toothpaste_2",
+      "type": "rect",
+      "width": 103.51058823529414,
+      "x": 69,
+      "y": 416
+    },
+    {
+      "class": "obj",
+      "height": 53.7338339591156,
+      "id": "peach_2",
+      "type": "rect",
+      "width": 51.731330830204456,
+      "x": 186,
+      "y": 382
+    }
+  ],
+  "class": "image",
+  "filename": "wp_5_4_90_002.png"
+}

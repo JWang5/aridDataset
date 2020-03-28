@@ -1,0 +1,105 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 90.72628842200245,
+      "id": "instant_noodles_2",
+      "type": "rect",
+      "width": 48.80131027052224,
+      "x": 292,
+      "y": 211
+    },
+    {
+      "class": "obj",
+      "height": 83.52929099106314,
+      "id": "water_bottle_2",
+      "type": "rect",
+      "width": 40.23478686834754,
+      "x": 223,
+      "y": 260
+    },
+    {
+      "class": "obj",
+      "height": 104.47020175963738,
+      "id": "pitcher_0",
+      "type": "rect",
+      "width": 94.11672917913874,
+      "x": 181,
+      "y": 163
+    },
+    {
+      "class": "obj",
+      "height": 52.55680573755831,
+      "id": "cap_1",
+      "type": "rect",
+      "width": 69.99311900332084,
+      "x": 132,
+      "y": 195
+    },
+    {
+      "class": "obj",
+      "height": 49.411088373483096,
+      "id": "food_bag_0",
+      "type": "rect",
+      "width": 80.94074168547436,
+      "x": 154,
+      "y": 262
+    },
+    {
+      "class": "obj",
+      "height": 27.05860613685485,
+      "id": "cell_phone_2",
+      "type": "rect",
+      "width": 49.411668086968156,
+      "x": 114,
+      "y": 260
+    },
+    {
+      "class": "obj",
+      "height": 25.670952304165525,
+      "id": "shampoo_0",
+      "type": "rect",
+      "width": 46.84428203533919,
+      "x": 114,
+      "y": 180
+    },
+    {
+      "class": "obj",
+      "height": 36.60334443138447,
+      "id": "bell_pepper_2",
+      "type": "rect",
+      "width": 36.5856942403431,
+      "x": 84,
+      "y": 221
+    },
+    {
+      "class": "obj",
+      "height": 120.64296705826342,
+      "id": "greens_2",
+      "type": "rect",
+      "width": 147.16217293281568,
+      "x": 28.80701754385965,
+      "y": 283
+    },
+    {
+      "class": "obj",
+      "height": 33.68685857253334,
+      "id": "food_cup_1",
+      "type": "rect",
+      "width": 30.012404774462453,
+      "x": 66,
+      "y": 186
+    },
+    {
+      "class": "obj",
+      "height": 27.134502923976584,
+      "id": "mushroom_0",
+      "type": "rect",
+      "width": 47.719298245614034,
+      "x": 0.935672514619883,
+      "y": 251.69590643274853
+    }
+  ],
+  "class": "image",
+  "filename": "wp_5_2_46_005.png"
+}
