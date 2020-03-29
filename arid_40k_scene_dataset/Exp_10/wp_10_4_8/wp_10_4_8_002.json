@@ -1,0 +1,51 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 201.15901060070672,
+      "id": "cereal_box_2",
+      "type": "rect",
+      "width": 102.10600706713782,
+      "x": 137,
+      "y": 263
+    },
+    {
+      "class": "obj",
+      "height": 37.9929328621908,
+      "id": "onion_2",
+      "type": "rect",
+      "width": 37.99293286219083,
+      "x": 239,
+      "y": 177
+    },
+    {
+      "class": "obj",
+      "height": 47.49116607773857,
+      "id": "potato_1",
+      "type": "rect",
+      "width": 40.02826855123675,
+      "x": 304,
+      "y": 327
+    },
+    {
+      "class": "obj",
+      "height": 45.45583038869256,
+      "id": "bell_pepper_0",
+      "type": "rect",
+      "width": 43.081272084805676,
+      "x": 364,
+      "y": 286
+    },
+    {
+      "class": "obj",
+      "height": 41.38515901060072,
+      "id": "lemon_1",
+      "type": "rect",
+      "width": 43.08127208480565,
+      "x": 166,
+      "y": 179
+    }
+  ],
+  "class": "image",
+  "filename": "wp_10_4_8_002.png"
+}

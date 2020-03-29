@@ -1,0 +1,24 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 84.02444126334632,
+      "id": "plate_2",
+      "type": "rect",
+      "width": 233.640369532367,
+      "x": 370,
+      "y": 211
+    },
+    {
+      "class": "obj",
+      "height": 97.71229985866589,
+      "id": "sponge_0",
+      "type": "rect",
+      "width": 151.6108670642734,
+      "x": 155.87134502923976,
+      "y": 136
+    }
+  ],
+  "class": "image",
+  "filename": "wp_8_4_93_015.png"
+}

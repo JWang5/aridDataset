@@ -1,0 +1,78 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 32.883496355942725,
+      "id": "mushroom_2",
+      "type": "rect",
+      "width": 33.47754335938964,
+      "x": 327,
+      "y": 391
+    },
+    {
+      "class": "obj",
+      "height": 60.73768525325079,
+      "id": "instant_noodles_0",
+      "type": "rect",
+      "width": 107.70034983479326,
+      "x": 405,
+      "y": 379
+    },
+    {
+      "class": "obj",
+      "height": 50.34552669604659,
+      "id": "banana_0",
+      "type": "rect",
+      "width": 112.39347044752691,
+      "x": 448,
+      "y": 342
+    },
+    {
+      "class": "obj",
+      "height": 52.6795201810138,
+      "id": "sponge_0",
+      "type": "rect",
+      "width": 65.83799491442176,
+      "x": 542,
+      "y": 310
+    },
+    {
+      "class": "obj",
+      "height": 36.94081608757523,
+      "id": "potato_2",
+      "type": "rect",
+      "width": 34.8008040340888,
+      "x": 409,
+      "y": 196
+    },
+    {
+      "class": "obj",
+      "height": 45.13389586547848,
+      "id": "orange_2",
+      "type": "rect",
+      "width": 42.273482373345445,
+      "x": 354,
+      "y": 180
+    },
+    {
+      "class": "obj",
+      "height": 37.705727835293885,
+      "id": "lemon_2",
+      "type": "rect",
+      "width": 38.59425009910542,
+      "x": 314,
+      "y": 178
+    },
+    {
+      "class": "obj",
+      "height": 140.94065481035858,
+      "id": "food_box_2",
+      "type": "rect",
+      "width": 85.15647385258062,
+      "x": 275,
+      "y": 282
+    }
+  ],
+  "class": "image",
+  "filename": "wp_8_4_4_009.png"
+}

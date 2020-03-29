@@ -1,0 +1,78 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 138.5615763546798,
+      "id": "hand_towel_2",
+      "type": "rect",
+      "width": 183.48768472906403,
+      "x": 318,
+      "y": 338
+    },
+    {
+      "class": "obj",
+      "height": 43.980295566502434,
+      "id": "calculator_0",
+      "type": "rect",
+      "width": 65.26108374384233,
+      "x": 266,
+      "y": 313
+    },
+    {
+      "class": "obj",
+      "height": 44.47135763648299,
+      "id": "stapler_0",
+      "type": "rect",
+      "width": 25.44082171096099,
+      "x": 274,
+      "y": 259
+    },
+    {
+      "class": "obj",
+      "height": 32.65239321957989,
+      "id": "potato_1",
+      "type": "rect",
+      "width": 43.67007191330316,
+      "x": 162,
+      "y": 284
+    },
+    {
+      "class": "obj",
+      "height": 39.010437224639304,
+      "id": "ball_2",
+      "type": "rect",
+      "width": 39.01043722463933,
+      "x": 182,
+      "y": 326
+    },
+    {
+      "class": "obj",
+      "height": 35.843313290712956,
+      "id": "camera_2",
+      "type": "rect",
+      "width": 61.33189163077547,
+      "x": 49,
+      "y": 367
+    },
+    {
+      "class": "obj",
+      "height": 47.39282535105377,
+      "id": "lightbulb_0",
+      "type": "rect",
+      "width": 66.90751814266414,
+      "x": 176,
+      "y": 409
+    },
+    {
+      "class": "obj",
+      "height": 135.00981339501874,
+      "id": "cereal_box_2",
+      "type": "rect",
+      "width": 63.323186813592855,
+      "x": 29,
+      "y": 213
+    }
+  ],
+  "class": "image",
+  "filename": "wp_9_1_5_002.png"
+}

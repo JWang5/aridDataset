@@ -1,0 +1,69 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 26.386170559219693,
+      "id": "sponge_2",
+      "type": "rect",
+      "width": 43.90196557060224,
+      "x": 585,
+      "y": 279
+    },
+    {
+      "class": "obj",
+      "height": 29.797526168986167,
+      "id": "calculator_2",
+      "type": "rect",
+      "width": 35.71721265099271,
+      "x": 579,
+      "y": 246
+    },
+    {
+      "class": "obj",
+      "height": 21.774864382804992,
+      "id": "keyboard_0",
+      "type": "rect",
+      "width": 65.83368978269536,
+      "x": 574,
+      "y": 190
+    },
+    {
+      "class": "obj",
+      "height": 19.712151266687187,
+      "id": "flashlight_2",
+      "type": "rect",
+      "width": 37.12034156162281,
+      "x": 571,
+      "y": 200
+    },
+    {
+      "class": "obj",
+      "height": 45.24799609479925,
+      "id": "onion_1",
+      "type": "rect",
+      "width": 45.268968109968,
+      "x": 530,
+      "y": 389
+    },
+    {
+      "class": "obj",
+      "height": 56.299783276515825,
+      "id": "bowl_1",
+      "type": "rect",
+      "width": 74.93581828652464,
+      "x": 498,
+      "y": 291
+    },
+    {
+      "class": "obj",
+      "height": 20.476764643051638,
+      "id": "calculator_0",
+      "type": "rect",
+      "width": 33.28830160650884,
+      "x": 549,
+      "y": 221
+    }
+  ],
+  "class": "image",
+  "filename": "wp_10_3_87_016.png"
+}

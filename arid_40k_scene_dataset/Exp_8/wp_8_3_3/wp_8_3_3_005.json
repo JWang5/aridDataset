@@ -1,0 +1,141 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 39.46006504120038,
+      "id": "scissors_1",
+      "type": "rect",
+      "width": 76.06407818898589,
+      "x": 469,
+      "y": 342
+    },
+    {
+      "class": "obj",
+      "height": 46.71508774627864,
+      "id": "plate_0",
+      "type": "rect",
+      "width": 83.03310122241697,
+      "x": 435,
+      "y": 278
+    },
+    {
+      "class": "obj",
+      "height": 12.020220844177857,
+      "id": "dry_battery_1",
+      "type": "rect",
+      "width": 24.32649556179092,
+      "x": 468,
+      "y": 265
+    },
+    {
+      "class": "obj",
+      "height": 60.61275968932702,
+      "id": "binder_1",
+      "type": "rect",
+      "width": 134.8345806556885,
+      "x": 377,
+      "y": 207
+    },
+    {
+      "class": "obj",
+      "height": 49.74914978014979,
+      "id": "food_can_2",
+      "type": "rect",
+      "width": 32.60396256778182,
+      "x": 384,
+      "y": 226
+    },
+    {
+      "class": "obj",
+      "height": 77.01280813424324,
+      "id": "soda_can_0",
+      "type": "rect",
+      "width": 33.27408938462415,
+      "x": 303,
+      "y": 292
+    },
+    {
+      "class": "obj",
+      "height": 66.57954011255305,
+      "id": "cap_2",
+      "type": "rect",
+      "width": 107.39913911013022,
+      "x": 270,
+      "y": 244
+    },
+    {
+      "class": "obj",
+      "height": 161.72793259796336,
+      "id": "water_bottle_0",
+      "type": "rect",
+      "width": 59.49700479565102,
+      "x": 216,
+      "y": 194
+    },
+    {
+      "class": "obj",
+      "height": 44.822387825836586,
+      "id": "bowl_2",
+      "type": "rect",
+      "width": 63.79216244875619,
+      "x": 300,
+      "y": 209
+    },
+    {
+      "class": "obj",
+      "height": 48.55082263807091,
+      "id": "binder_2",
+      "type": "rect",
+      "width": 94.77435023881802,
+      "x": 273,
+      "y": 178
+    },
+    {
+      "class": "obj",
+      "height": 28.499915046612074,
+      "id": "food_jar_1",
+      "type": "rect",
+      "width": 20.65934250967007,
+      "x": 351,
+      "y": 153
+    },
+    {
+      "class": "obj",
+      "height": 20.01215455692318,
+      "id": "apple_1",
+      "type": "rect",
+      "width": 18.998880908471392,
+      "x": 300,
+      "y": 166
+    },
+    {
+      "class": "obj",
+      "height": 94.43906398943705,
+      "id": "kleenex_2",
+      "type": "rect",
+      "width": 74.75110958144694,
+      "x": 369,
+      "y": 270
+    },
+    {
+      "class": "obj",
+      "height": 34.45518841115327,
+      "id": "hand_towel_1",
+      "type": "rect",
+      "width": 63.095120395529534,
+      "x": 412,
+      "y": 180
+    },
+    {
+      "class": "obj",
+      "height": 52.70578062318367,
+      "id": "pitcher_1",
+      "type": "rect",
+      "width": 52.4246831265267,
+      "x": 369,
+      "y": 166
+    }
+  ],
+  "class": "image",
+  "filename": "wp_8_3_3_005.png"
+}

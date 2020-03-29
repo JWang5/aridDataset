@@ -1,0 +1,69 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 44.73677202886586,
+      "id": "ball_0",
+      "type": "rect",
+      "width": 40.47612707373577,
+      "x": 400,
+      "y": 252
+    },
+    {
+      "class": "obj",
+      "height": 39.29261458619965,
+      "id": "apple_1",
+      "type": "rect",
+      "width": 34.558564636055166,
+      "x": 349,
+      "y": 307
+    },
+    {
+      "class": "obj",
+      "height": 76.6916091923415,
+      "id": "pitcher_1",
+      "type": "rect",
+      "width": 69.11712927211022,
+      "x": 290,
+      "y": 225
+    },
+    {
+      "class": "obj",
+      "height": 124.26881119129405,
+      "id": "hand_towel_1",
+      "type": "rect",
+      "width": 124.50551368880127,
+      "x": 381,
+      "y": 341
+    },
+    {
+      "class": "obj",
+      "height": 52.708802589104494,
+      "id": "comb_0",
+      "type": "rect",
+      "width": 107.39913911013019,
+      "x": 210,
+      "y": 396
+    },
+    {
+      "class": "obj",
+      "height": 65.78692653978453,
+      "id": "food_jar_1",
+      "type": "rect",
+      "width": 47.953121152493566,
+      "x": 220,
+      "y": 297
+    },
+    {
+      "class": "obj",
+      "height": 109.3806730420514,
+      "id": "binder_2",
+      "type": "rect",
+      "width": 147.42612453493885,
+      "x": 107,
+      "y": 241
+    }
+  ],
+  "class": "image",
+  "filename": "wp_8_1_43_004.png"
+}

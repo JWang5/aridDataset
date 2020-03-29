@@ -1,0 +1,132 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 55.88003598074238,
+      "id": "stapler_0",
+      "type": "rect",
+      "width": 77.39899472049706,
+      "x": 509,
+      "y": 334
+    },
+    {
+      "class": "obj",
+      "height": 36.215482118605735,
+      "id": "lemon_0",
+      "type": "rect",
+      "width": 32.079191629732634,
+      "x": 420,
+      "y": 321
+    },
+    {
+      "class": "obj",
+      "height": 32.49060242980761,
+      "id": "potato_1",
+      "type": "rect",
+      "width": 30.231263736213805,
+      "x": 499,
+      "y": 275
+    },
+    {
+      "class": "obj",
+      "height": 28.874347213647525,
+      "id": "lightbulb_0",
+      "type": "rect",
+      "width": 26.85985787316048,
+      "x": 437,
+      "y": 279
+    },
+    {
+      "class": "obj",
+      "height": 26.52410964974598,
+      "id": "ball_2",
+      "type": "rect",
+      "width": 24.677494420966184,
+      "x": 424,
+      "y": 241
+    },
+    {
+      "class": "obj",
+      "height": 22.372667255531667,
+      "id": "flashlight_2",
+      "type": "rect",
+      "width": 43.52261401288422,
+      "x": 475,
+      "y": 249
+    },
+    {
+      "class": "obj",
+      "height": 14.430301567163212,
+      "id": "pliers_1",
+      "type": "rect",
+      "width": 52.19804982148918,
+      "x": 394,
+      "y": 206
+    },
+    {
+      "class": "obj",
+      "height": 18.164029502299286,
+      "id": "camera_2",
+      "type": "rect",
+      "width": 39.26166565362382,
+      "x": 347,
+      "y": 247
+    },
+    {
+      "class": "obj",
+      "height": 34.0411282251809,
+      "id": "calculator_0",
+      "type": "rect",
+      "width": 51.6517896532219,
+      "x": 327,
+      "y": 283
+    },
+    {
+      "class": "obj",
+      "height": 146.232585416578,
+      "id": "cereal_box_2",
+      "type": "rect",
+      "width": 86.19826713081976,
+      "x": 237,
+      "y": 246
+    },
+    {
+      "class": "obj",
+      "height": 48.01297766822586,
+      "id": "keyboard_0",
+      "type": "rect",
+      "width": 86.97351566362963,
+      "x": 299,
+      "y": 192
+    },
+    {
+      "class": "obj",
+      "height": 29.611171957518707,
+      "id": "hand_towel_2",
+      "type": "rect",
+      "width": 75.08082647604465,
+      "x": 323,
+      "y": 167
+    },
+    {
+      "class": "obj",
+      "height": 25.175226436378978,
+      "id": "bell_pepper_0",
+      "type": "rect",
+      "width": 26.5133107302795,
+      "x": 468,
+      "y": 177
+    },
+    {
+      "class": "obj",
+      "height": 16.918694254105446,
+      "id": "pear_2",
+      "type": "rect",
+      "width": 23.145789761024275,
+      "x": 400,
+      "y": 165
+    }
+  ],
+  "class": "image",
+  "filename": "wp_9_3_51_006.png"
+}

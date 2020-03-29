@@ -1,0 +1,87 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 87.52941176470591,
+      "id": "hand_towel_2",
+      "type": "rect",
+      "width": 153.41176470588238,
+      "x": 275,
+      "y": 265
+    },
+    {
+      "class": "obj",
+      "height": 50.291331192160555,
+      "id": "pear_2",
+      "type": "rect",
+      "width": 53.0852940361695,
+      "x": 403,
+      "y": 331
+    },
+    {
+      "class": "obj",
+      "height": 96.11232183390689,
+      "id": "keyboard_0",
+      "type": "rect",
+      "width": 207.312043025462,
+      "x": 66,
+      "y": 267
+    },
+    {
+      "class": "obj",
+      "height": 62.584767705799834,
+      "id": "pliers_1",
+      "type": "rect",
+      "width": 40.23306495372849,
+      "x": 172,
+      "y": 352
+    },
+    {
+      "class": "obj",
+      "height": 51.11473676148535,
+      "id": "bell_pepper_0",
+      "type": "rect",
+      "width": 67.20195035547374,
+      "x": 266,
+      "y": 423
+    },
+    {
+      "class": "obj",
+      "height": 26.822043302485667,
+      "id": "glue_stick_1",
+      "type": "rect",
+      "width": 68.73148596261947,
+      "x": 289,
+      "y": 366
+    },
+    {
+      "class": "obj",
+      "height": 40.233064953728444,
+      "id": "lightbulb_2",
+      "type": "rect",
+      "width": 35.20393183451242,
+      "x": 53,
+      "y": 371
+    },
+    {
+      "class": "obj",
+      "height": 73.76061908183556,
+      "id": "calculator_2",
+      "type": "rect",
+      "width": 54.20287917377311,
+      "x": 462,
+      "y": 389
+    },
+    {
+      "class": "obj",
+      "height": 47.21953199471841,
+      "id": "onion_2",
+      "type": "rect",
+      "width": 43.28457099515862,
+      "x": 385,
+      "y": 418
+    }
+  ],
+  "class": "image",
+  "filename": "wp_9_1_49_003.png"
+}

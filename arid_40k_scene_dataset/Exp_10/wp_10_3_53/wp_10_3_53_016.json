@@ -1,0 +1,24 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 61.6445410590473,
+      "id": "keyboard_0",
+      "type": "rect",
+      "width": 211.71503558268628,
+      "x": 428.7602339181286,
+      "y": 336
+    },
+    {
+      "class": "obj",
+      "height": 49.731447439611514,
+      "id": "hand_towel_2",
+      "type": "rect",
+      "width": 89.97245629422994,
+      "x": 550,
+      "y": 219
+    }
+  ],
+  "class": "image",
+  "filename": "wp_10_3_53_016.png"
+}

@@ -1,0 +1,123 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 52.60856393097964,
+      "id": "ball_0",
+      "type": "rect",
+      "width": 50.666838901598226,
+      "x": 459,
+      "y": 291
+    },
+    {
+      "class": "obj",
+      "height": 75.68265632938227,
+      "id": "pitcher_1",
+      "type": "rect",
+      "width": 58.48871492673908,
+      "x": 399,
+      "y": 221
+    },
+    {
+      "class": "obj",
+      "height": 41.428974641466425,
+      "id": "apple_1",
+      "type": "rect",
+      "width": 34.342330999536756,
+      "x": 341,
+      "y": 280
+    },
+    {
+      "class": "obj",
+      "height": 45.78984320922527,
+      "id": "food_jar_1",
+      "type": "rect",
+      "width": 33.80347240756134,
+      "x": 302,
+      "y": 235
+    },
+    {
+      "class": "obj",
+      "height": 41.311211116886085,
+      "id": "binder_2",
+      "type": "rect",
+      "width": 121.5094544778763,
+      "x": 315,
+      "y": 221
+    },
+    {
+      "class": "obj",
+      "height": 59.9769998731974,
+      "id": "kleenex_2",
+      "type": "rect",
+      "width": 50.56198165188317,
+      "x": 272,
+      "y": 174
+    },
+    {
+      "class": "obj",
+      "height": 28.33676796655959,
+      "id": "bowl_2",
+      "type": "rect",
+      "width": 43.35646260921766,
+      "x": 279,
+      "y": 150
+    },
+    {
+      "class": "obj",
+      "height": 73.7379926668894,
+      "id": "hand_towel_1",
+      "type": "rect",
+      "width": 168.45929196231702,
+      "x": 201,
+      "y": 321
+    },
+    {
+      "class": "obj",
+      "height": 31.623771598894564,
+      "id": "comb_0",
+      "type": "rect",
+      "width": 48.60927821596148,
+      "x": 218,
+      "y": 279
+    },
+    {
+      "class": "obj",
+      "height": 128.47031329901816,
+      "id": "binder_1",
+      "type": "rect",
+      "width": 65.08952490727327,
+      "x": 183,
+      "y": 137
+    },
+    {
+      "class": "obj",
+      "height": 16.113815472189287,
+      "id": "dry_battery_1",
+      "type": "rect",
+      "width": 19.570194062514375,
+      "x": 182,
+      "y": 267
+    },
+    {
+      "class": "obj",
+      "height": 19.266304054192062,
+      "id": "peach_1",
+      "type": "rect",
+      "width": 18.225555720106577,
+      "x": 170,
+      "y": 193
+    },
+    {
+      "class": "obj",
+      "height": 81.26334458164183,
+      "id": "water_bottle_0",
+      "type": "rect",
+      "width": 33.665319693927955,
+      "x": 148,
+      "y": 110
+    }
+  ],
+  "class": "image",
+  "filename": "wp_8_2_44_011.png"
+}

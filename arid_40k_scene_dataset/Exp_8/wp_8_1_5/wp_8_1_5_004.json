@@ -1,0 +1,87 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 66.99735076525337,
+      "id": "food_jar_1",
+      "type": "rect",
+      "width": 46.973696633654754,
+      "x": 453,
+      "y": 318
+    },
+    {
+      "class": "obj",
+      "height": 57.36785349177575,
+      "id": "ball_0",
+      "type": "rect",
+      "width": 56.54240679994996,
+      "x": 342,
+      "y": 323
+    },
+    {
+      "class": "obj",
+      "height": 38.19998519693229,
+      "id": "apple_1",
+      "type": "rect",
+      "width": 32.61177404571981,
+      "x": 377,
+      "y": 271
+    },
+    {
+      "class": "obj",
+      "height": 110.45742434904997,
+      "id": "pitcher_1",
+      "type": "rect",
+      "width": 120.25334271639692,
+      "x": 163,
+      "y": 302
+    },
+    {
+      "class": "obj",
+      "height": 65.19352568613652,
+      "id": "binder_2",
+      "type": "rect",
+      "width": 160.78817733990152,
+      "x": 179,
+      "y": 274
+    },
+    {
+      "class": "obj",
+      "height": 56.35638735911465,
+      "id": "comb_0",
+      "type": "rect",
+      "width": 86.64826371378382,
+      "x": 465,
+      "y": 424
+    },
+    {
+      "class": "obj",
+      "height": 85.27064705299898,
+      "id": "hand_towel_1",
+      "type": "rect",
+      "width": 131.4004222378607,
+      "x": 244,
+      "y": 392
+    },
+    {
+      "class": "obj",
+      "height": 36.48135116115412,
+      "id": "peach_1",
+      "type": "rect",
+      "width": 27.698803659394812,
+      "x": 158,
+      "y": 327
+    },
+    {
+      "class": "obj",
+      "height": 75.66502463054195,
+      "id": "bowl_2",
+      "type": "rect",
+      "width": 91.54116819141454,
+      "x": 26,
+      "y": 283
+    }
+  ],
+  "class": "image",
+  "filename": "wp_8_1_5_004.png"
+}

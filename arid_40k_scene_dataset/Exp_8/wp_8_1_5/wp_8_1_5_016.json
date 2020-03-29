@@ -1,0 +1,114 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 108.76847290640393,
+      "id": "pitcher_1",
+      "type": "rect",
+      "width": 118.56439127375101,
+      "x": 448,
+      "y": 308
+    },
+    {
+      "class": "obj",
+      "height": 98.06423199443344,
+      "id": "binder_2",
+      "type": "rect",
+      "width": 178.83855697558866,
+      "x": 461,
+      "y": 284
+    },
+    {
+      "class": "obj",
+      "height": 61.477832512315274,
+      "id": "bowl_2",
+      "type": "rect",
+      "width": 83.09641097818444,
+      "x": 326.0267417311752,
+      "y": 263.3645320197045
+    },
+    {
+      "class": "obj",
+      "height": 64.68275109973189,
+      "id": "food_can_2",
+      "type": "rect",
+      "width": 43.8044889806589,
+      "x": 248,
+      "y": 284
+    },
+    {
+      "class": "obj",
+      "height": 134.23517148156395,
+      "id": "binder_1",
+      "type": "rect",
+      "width": 199.12175238478142,
+      "x": 197,
+      "y": 345
+    },
+    {
+      "class": "obj",
+      "height": 24.320900774102824,
+      "id": "dry_battery_1",
+      "type": "rect",
+      "width": 34.11681914144968,
+      "x": 187,
+      "y": 378
+    },
+    {
+      "class": "obj",
+      "height": 64.18015482054892,
+      "id": "cap_2",
+      "type": "rect",
+      "width": 105.05277973258272,
+      "x": 198,
+      "y": 248
+    },
+    {
+      "class": "obj",
+      "height": 114.17311752287122,
+      "id": "water_bottle_0",
+      "type": "rect",
+      "width": 42.561576354679836,
+      "x": 207,
+      "y": 138
+    },
+    {
+      "class": "obj",
+      "height": 56.41097818437723,
+      "id": "soda_can_0",
+      "type": "rect",
+      "width": 32.42786769880366,
+      "x": 163,
+      "y": 216
+    },
+    {
+      "class": "obj",
+      "height": 84.4475721323011,
+      "id": "kleenex_2",
+      "type": "rect",
+      "width": 80.39408866995068,
+      "x": 111,
+      "y": 241
+    },
+    {
+      "class": "obj",
+      "height": 63.504574243490595,
+      "id": "plate_0",
+      "type": "rect",
+      "width": 102.68824771287822,
+      "x": 93,
+      "y": 323
+    },
+    {
+      "class": "obj",
+      "height": 43.912737508796624,
+      "id": "scissors_1",
+      "type": "rect",
+      "width": 40.197044334975374,
+      "x": 32,
+      "y": 318
+    }
+  ],
+  "class": "image",
+  "filename": "wp_8_1_5_016.png"
+}

@@ -1,0 +1,105 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 43.963120216920515,
+      "id": "pear_2",
+      "type": "rect",
+      "width": 61.64329261091143,
+      "x": 491,
+      "y": 388
+    },
+    {
+      "class": "obj",
+      "height": 92.09710906154447,
+      "id": "hand_towel_2",
+      "type": "rect",
+      "width": 163.59365070876996,
+      "x": 449,
+      "y": 284
+    },
+    {
+      "class": "obj",
+      "height": 49.5971845079917,
+      "id": "bell_pepper_0",
+      "type": "rect",
+      "width": 48.80612037773407,
+      "x": 371,
+      "y": 323
+    },
+    {
+      "class": "obj",
+      "height": 66.31794998265212,
+      "id": "keyboard_0",
+      "type": "rect",
+      "width": 196.91406979394972,
+      "x": 218,
+      "y": 292
+    },
+    {
+      "class": "obj",
+      "height": 41.77249835298426,
+      "id": "lightbulb_0",
+      "type": "rect",
+      "width": 56.91600387673745,
+      "x": 255,
+      "y": 354
+    },
+    {
+      "class": "obj",
+      "height": 29.26479674196588,
+      "id": "ball_2",
+      "type": "rect",
+      "width": 29.886526791011192,
+      "x": 257,
+      "y": 252
+    },
+    {
+      "class": "obj",
+      "height": 43.89634546652843,
+      "id": "potato_1",
+      "type": "rect",
+      "width": 60.39095004085206,
+      "x": 177,
+      "y": 348
+    },
+    {
+      "class": "obj",
+      "height": 24.434502599367875,
+      "id": "camera_2",
+      "type": "rect",
+      "width": 47.50667269438772,
+      "x": 166,
+      "y": 295
+    },
+    {
+      "class": "obj",
+      "height": 32.23235606738842,
+      "id": "garlic_1",
+      "type": "rect",
+      "width": 29.612778896385322,
+      "x": 149,
+      "y": 329
+    },
+    {
+      "class": "obj",
+      "height": 89.4023985689509,
+      "id": "cereal_box_2",
+      "type": "rect",
+      "width": 61.889056140304874,
+      "x": 169,
+      "y": 169
+    },
+    {
+      "class": "obj",
+      "height": 38.18412939955675,
+      "id": "flashlight_2",
+      "type": "rect",
+      "width": 22.641953838464893,
+      "x": 98,
+      "y": 305
+    }
+  ],
+  "class": "image",
+  "filename": "wp_9_1_53_016.png"
+}

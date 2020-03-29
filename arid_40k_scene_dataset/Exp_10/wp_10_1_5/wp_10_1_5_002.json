@@ -1,0 +1,105 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 159.43462897526507,
+      "id": "keyboard_0",
+      "type": "rect",
+      "width": 185.5547703180212,
+      "x": 52,
+      "y": 317
+    },
+    {
+      "class": "obj",
+      "height": 27.345151930703082,
+      "id": "onion_1",
+      "type": "rect",
+      "width": 31.731418737485058,
+      "x": 256,
+      "y": 286
+    },
+    {
+      "class": "obj",
+      "height": 38.10841782697827,
+      "id": "stapler_0",
+      "type": "rect",
+      "width": 69.83983656446333,
+      "x": 296,
+      "y": 330
+    },
+    {
+      "class": "obj",
+      "height": 66.63350517844214,
+      "id": "calculator_2",
+      "type": "rect",
+      "width": 56.932664177959964,
+      "x": 241,
+      "y": 411
+    },
+    {
+      "class": "obj",
+      "height": 64.59354056954533,
+      "id": "flashlight_2",
+      "type": "rect",
+      "width": 26.45473503774633,
+      "x": 399,
+      "y": 402
+    },
+    {
+      "class": "obj",
+      "height": 31.208480565371076,
+      "id": "lime_0",
+      "type": "rect",
+      "width": 30.996614940735014,
+      "x": 423,
+      "y": 360
+    },
+    {
+      "class": "obj",
+      "height": 23.48161121875785,
+      "id": "banana_2",
+      "type": "rect",
+      "width": 53.06460058480252,
+      "x": 392,
+      "y": 325
+    },
+    {
+      "class": "obj",
+      "height": 29.827962919856247,
+      "id": "lightbulb_0",
+      "type": "rect",
+      "width": 30.621893114325587,
+      "x": 338,
+      "y": 274
+    },
+    {
+      "class": "obj",
+      "height": 77.68197879858661,
+      "id": "soda_can_1",
+      "type": "rect",
+      "width": 47.49116607773853,
+      "x": 47,
+      "y": 267
+    },
+    {
+      "class": "obj",
+      "height": 46.134275618374545,
+      "id": "lemon_0",
+      "type": "rect",
+      "width": 38.332155477031804,
+      "x": 25,
+      "y": 349
+    },
+    {
+      "class": "obj",
+      "height": 50.68510909617936,
+      "id": "glue_stick_1",
+      "type": "rect",
+      "width": 22.17242147929595,
+      "x": 152,
+      "y": 265
+    }
+  ],
+  "class": "image",
+  "filename": "wp_10_1_5_002.png"
+}

@@ -1,0 +1,141 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 33.002808597852095,
+      "id": "lightbulb_0",
+      "type": "rect",
+      "width": 52.52731076197941,
+      "x": 471,
+      "y": 286
+    },
+    {
+      "class": "obj",
+      "height": 35.455366540778925,
+      "id": "banana_2",
+      "type": "rect",
+      "width": 23.20066231882167,
+      "x": 410,
+      "y": 324
+    },
+    {
+      "class": "obj",
+      "height": 24.097455397173803,
+      "id": "onion_1",
+      "type": "rect",
+      "width": 26.6311278299373,
+      "x": 432,
+      "y": 256
+    },
+    {
+      "class": "obj",
+      "height": 42.35655728094372,
+      "id": "stapler_0",
+      "type": "rect",
+      "width": 28.673115282437692,
+      "x": 368,
+      "y": 277
+    },
+    {
+      "class": "obj",
+      "height": 28.37392711103456,
+      "id": "lime_0",
+      "type": "rect",
+      "width": 25.997391316447676,
+      "x": 338,
+      "y": 326
+    },
+    {
+      "class": "obj",
+      "height": 48.924975555578044,
+      "id": "soda_can_1",
+      "type": "rect",
+      "width": 20.93545988225182,
+      "x": 372,
+      "y": 181
+    },
+    {
+      "class": "obj",
+      "height": 40.62094464863452,
+      "id": "glue_stick_1",
+      "type": "rect",
+      "width": 14.547701311920392,
+      "x": 418.5080928923294,
+      "y": 205.3779028852921
+    },
+    {
+      "class": "obj",
+      "height": 32.86527973687433,
+      "id": "keyboard_0",
+      "type": "rect",
+      "width": 150.36885154721864,
+      "x": 260,
+      "y": 235
+    },
+    {
+      "class": "obj",
+      "height": 21.23160036559537,
+      "id": "lemon_0",
+      "type": "rect",
+      "width": 25.541081326928293,
+      "x": 316,
+      "y": 211
+    },
+    {
+      "class": "obj",
+      "height": 14.041242790805114,
+      "id": "pliers_1",
+      "type": "rect",
+      "width": 44.24131888749311,
+      "x": 324,
+      "y": 184
+    },
+    {
+      "class": "obj",
+      "height": 17.487193063329187,
+      "id": "calculator_0",
+      "type": "rect",
+      "width": 40.86397669228331,
+      "x": 300,
+      "y": 204
+    },
+    {
+      "class": "obj",
+      "height": 27.85860033278226,
+      "id": "bowl_1",
+      "type": "rect",
+      "width": 35.6257550865369,
+      "x": 272,
+      "y": 176
+    },
+    {
+      "class": "obj",
+      "height": 25.934227018104593,
+      "id": "calculator_2",
+      "type": "rect",
+      "width": 62.448183157060996,
+      "x": 245,
+      "y": 275
+    },
+    {
+      "class": "obj",
+      "height": 18.67218606585334,
+      "id": "flashlight_2",
+      "type": "rect",
+      "width": 56.676779264491415,
+      "x": 257,
+      "y": 321
+    },
+    {
+      "class": "obj",
+      "height": 29.70734844881588,
+      "id": "hand_towel_2",
+      "type": "rect",
+      "width": 62.446721964726024,
+      "x": 206,
+      "y": 171
+    }
+  ],
+  "class": "image",
+  "filename": "wp_10_2_6_013.png"
+}

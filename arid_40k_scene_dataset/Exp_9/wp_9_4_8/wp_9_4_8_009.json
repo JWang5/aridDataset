@@ -1,0 +1,87 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 45.401793856115034,
+      "id": "onion_1",
+      "type": "rect",
+      "width": 47.75520956465945,
+      "x": 393,
+      "y": 355
+    },
+    {
+      "class": "obj",
+      "height": 30.28268431895708,
+      "id": "banana_2",
+      "type": "rect",
+      "width": 74.25464265208936,
+      "x": 317,
+      "y": 401
+    },
+    {
+      "class": "obj",
+      "height": 40.2053815683455,
+      "id": "lemon_1",
+      "type": "rect",
+      "width": 47.29619854966876,
+      "x": 456,
+      "y": 333
+    },
+    {
+      "class": "obj",
+      "height": 87.9022304994138,
+      "id": "bowl_1",
+      "type": "rect",
+      "width": 100.27561117999826,
+      "x": 200,
+      "y": 359
+    },
+    {
+      "class": "obj",
+      "height": 35.94088669950739,
+      "id": "lime_0",
+      "type": "rect",
+      "width": 35.974235632988055,
+      "x": 302,
+      "y": 196
+    },
+    {
+      "class": "obj",
+      "height": 32.63054187192117,
+      "id": "sponge_2",
+      "type": "rect",
+      "width": 55.8168510539748,
+      "x": 344,
+      "y": 194
+    },
+    {
+      "class": "obj",
+      "height": 51.11557779246658,
+      "id": "food_cup_2",
+      "type": "rect",
+      "width": 57.252244732537854,
+      "x": 250,
+      "y": 175
+    },
+    {
+      "class": "obj",
+      "height": 39.96082272282075,
+      "id": "garlic_2",
+      "type": "rect",
+      "width": 47.95298726738492,
+      "x": 88,
+      "y": 234
+    },
+    {
+      "class": "obj",
+      "height": 38.51892359673809,
+      "id": "onion_0",
+      "type": "rect",
+      "width": 44.659621561435465,
+      "x": 29,
+      "y": 260
+    }
+  ],
+  "class": "image",
+  "filename": "wp_9_4_8_009.png"
+}

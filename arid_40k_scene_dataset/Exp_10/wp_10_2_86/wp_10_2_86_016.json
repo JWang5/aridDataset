@@ -1,0 +1,177 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 98.51887715349284,
+      "id": "keyboard_0",
+      "type": "rect",
+      "width": 187.86039107787383,
+      "x": 369,
+      "y": 304
+    },
+    {
+      "class": "obj",
+      "height": 18.176416603098858,
+      "id": "flashlight_2",
+      "type": "rect",
+      "width": 53.47291462830579,
+      "x": 461,
+      "y": 284
+    },
+    {
+      "class": "obj",
+      "height": 23.711136945659348,
+      "id": "calculator_0",
+      "type": "rect",
+      "width": 36.861988722593566,
+      "x": 442,
+      "y": 243
+    },
+    {
+      "class": "obj",
+      "height": 20.272165577562816,
+      "id": "lightbulb_2",
+      "type": "rect",
+      "width": 36.27982258739556,
+      "x": 404,
+      "y": 273
+    },
+    {
+      "class": "obj",
+      "height": 24.71420486898245,
+      "id": "calculator_2",
+      "type": "rect",
+      "width": 43.88678378640168,
+      "x": 371,
+      "y": 224
+    },
+    {
+      "class": "obj",
+      "height": 21.364913744375258,
+      "id": "lime_0",
+      "type": "rect",
+      "width": 15.047624014718398,
+      "x": 361,
+      "y": 250
+    },
+    {
+      "class": "obj",
+      "height": 65.83107276054005,
+      "id": "soda_can_1",
+      "type": "rect",
+      "width": 29.095855669551526,
+      "x": 334,
+      "y": 241
+    },
+    {
+      "class": "obj",
+      "height": 22.378667557408107,
+      "id": "sponge_2",
+      "type": "rect",
+      "width": 23.069886517600267,
+      "x": 349,
+      "y": 199
+    },
+    {
+      "class": "obj",
+      "height": 26.160586399286757,
+      "id": "bowl_1",
+      "type": "rect",
+      "width": 37.594572159471156,
+      "x": 350,
+      "y": 172
+    },
+    {
+      "class": "obj",
+      "height": 38.152164718603814,
+      "id": "hand_towel_2",
+      "type": "rect",
+      "width": 89.24170016780454,
+      "x": 268,
+      "y": 182
+    },
+    {
+      "class": "obj",
+      "height": 15.589969614408488,
+      "id": "onion_1",
+      "type": "rect",
+      "width": 16.33558964175309,
+      "x": 324,
+      "y": 168
+    },
+    {
+      "class": "obj",
+      "height": 19.06432746276792,
+      "id": "pliers_1",
+      "type": "rect",
+      "width": 54.24695407082183,
+      "x": 291,
+      "y": 230
+    },
+    {
+      "class": "obj",
+      "height": 50.95359266468063,
+      "id": "glue_stick_1",
+      "type": "rect",
+      "width": 18.1401627176866,
+      "x": 280,
+      "y": 268
+    },
+    {
+      "class": "obj",
+      "height": 26.294121669356343,
+      "id": "garlic_2",
+      "type": "rect",
+      "width": 27.661123939737344,
+      "x": 275,
+      "y": 323
+    },
+    {
+      "class": "obj",
+      "height": 29.78922006118512,
+      "id": "lightbulb_0",
+      "type": "rect",
+      "width": 29.372593930236782,
+      "x": 283,
+      "y": 262
+    },
+    {
+      "class": "obj",
+      "height": 16.197782860620464,
+      "id": "garlic_1",
+      "type": "rect",
+      "width": 17.160017448463385,
+      "x": 268,
+      "y": 250
+    },
+    {
+      "class": "obj",
+      "height": 20.4620381589356,
+      "id": "lemon_0",
+      "type": "rect",
+      "width": 19.099570546499763,
+      "x": 253,
+      "y": 205
+    },
+    {
+      "class": "obj",
+      "height": 17.175574413700105,
+      "id": "camera_2",
+      "type": "rect",
+      "width": 36.46525532376336,
+      "x": 242,
+      "y": 228
+    },
+    {
+      "class": "obj",
+      "height": 21.119190702887835,
+      "id": "stapler_0",
+      "type": "rect",
+      "width": 35.39630184326486,
+      "x": 222,
+      "y": 176
+    }
+  ],
+  "class": "image",
+  "filename": "wp_10_2_86_016.png"
+}

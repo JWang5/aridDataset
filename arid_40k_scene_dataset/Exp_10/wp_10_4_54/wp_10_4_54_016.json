@@ -1,0 +1,60 @@
+{
+  "annotations": [
+    {
+      "class": "obj",
+      "height": 72.36371478870791,
+      "id": "bell_pepper_0",
+      "type": "rect",
+      "width": 69.37497887124107,
+      "x": 570,
+      "y": 388
+    },
+    {
+      "class": "obj",
+      "height": 37.79220364835464,
+      "id": "onion_0",
+      "type": "rect",
+      "width": 42.26176720126276,
+      "x": 454,
+      "y": 386
+    },
+    {
+      "class": "obj",
+      "height": 48.42095740980352,
+      "id": "pear_2",
+      "type": "rect",
+      "width": 43.91273442513955,
+      "x": 548,
+      "y": 184
+    },
+    {
+      "class": "obj",
+      "height": 66.43274853801171,
+      "id": "potato_1",
+      "type": "rect",
+      "width": 62.22222222222216,
+      "x": 350,
+      "y": 187
+    },
+    {
+      "class": "obj",
+      "height": 60.81871345029239,
+      "id": "lemon_1",
+      "type": "rect",
+      "width": 55.67251461988309,
+      "x": 281,
+      "y": 198
+    },
+    {
+      "class": "obj",
+      "height": 85.1461988304093,
+      "id": "onion_2",
+      "type": "rect",
+      "width": 86.54970760233917,
+      "x": 74,
+      "y": 120
+    }
+  ],
+  "class": "image",
+  "filename": "wp_10_4_54_016.png"
+}
