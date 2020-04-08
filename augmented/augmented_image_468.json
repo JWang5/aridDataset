@@ -1,1 +1,1 @@
-{"filename": "augmented_image_468.png", "annotations": [{"height": 19, "type": "rect", "y": 0, "class": "obj", "width": 34, "x": 0, "id": "dry_battery_1"}], "class": "image"}
+{"filename": "augmented_image_468.png", "annotations": [{"height": 167, "type": "rect", "y": 0, "class": "obj", "width": 162, "x": 0, "id": "binder_0"}], "class": "image"}

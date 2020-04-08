@@ -1,1 +1,1 @@
-{"filename": "augmented_image_10.png", "annotations": [{"height": 23, "type": "rect", "y": 0, "class": "obj", "width": 54, "x": 0, "id": "scissors_1"}], "class": "image"}
+{"filename": "augmented_image_10.png", "annotations": [{"height": 14, "type": "rect", "y": 0, "class": "obj", "width": 20, "x": 0, "id": "peach_0"}], "class": "image"}

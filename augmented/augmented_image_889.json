@@ -1,1 +1,1 @@
-{"filename": "augmented_image_889.png", "annotations": [{"height": 89, "type": "rect", "y": 0, "class": "obj", "width": 43, "x": 0, "id": "food_bag_1"}], "class": "image"}
+{"filename": "augmented_image_889.png", "annotations": [{"height": 87, "type": "rect", "y": 0, "class": "obj", "width": 114, "x": 0, "id": "food_box_1"}], "class": "image"}
