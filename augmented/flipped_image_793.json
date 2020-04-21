@@ -1,0 +1,1 @@
+{"class": "image", "annotations": [{"y": 311.52941176470586, "class": "obj", "height": 44.23529411764707, "id": "marker_0", "type": "rect", "width": 56, "x": 464}, {"y": 252.80470588235295, "class": "obj", "height": 110.14588235294121, "id": "binder_0", "type": "rect", "width": 92.89411764705883, "x": 545.7788235294117}], "filename": "flipped_image_793.png"}

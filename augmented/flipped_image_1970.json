@@ -1,0 +1,1 @@
+{"class": "image", "annotations": [{"y": 211, "class": "obj", "height": 84.02444126334632, "id": "plate_2", "type": "rect", "width": 233.640369532367, "x": 36.359630467632996}, {"y": 136, "class": "obj", "height": 97.71229985866589, "id": "sponge_0", "type": "rect", "width": 151.6108670642734, "x": 332.51778790648683}], "filename": "flipped_image_1970.png"}
